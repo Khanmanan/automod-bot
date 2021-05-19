@@ -1,9 +1,11 @@
-## MY FISRT MODERATION BOT MADE USING DISCORD.JS 
-## Made by tag:- cw Khan#6496
+<h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js </h1>
+<h1 align='center'> Made by tag:- cw Khan#6496 </h1>
 Id 682981714523586606
-## Categories 📑
 
-### START THE PROJECT IF U LIKE :)
+
+<h1 align='center'> START THE PROJECT IF U LIKE :) </h1>
+
+ <h3 align='center'> Categories 📑 </h3>
 
 
 - ✅ music 
@@ -23,8 +25,8 @@ Id 682981714523586606
 
 
 
-<h1> A FUN AND MODERATION BOT WITH 150+COMMNDS
-IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h1>
+<h3> A FUN AND MODERATION BOT WITH 150+COMMNDS
+IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 
 **[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
@@ -38,7 +40,7 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h1>
 </a>
 
 
-### Bot support server :
+<h3 align='center'> Bot support server </h3>
 
 <a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 
@@ -53,9 +55,9 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h1>
 
 </a>
 
-## 📝 Tutorial
+<h3 align='center'> 📝 Tutorial </h3>
 
-Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/IX4DZq7iVf4)
+ <h3 align='center'> Tutorial has been uploaded on YouTube </h3> <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/IX4DZq7iVf4)
 
 ** How to host watch' video <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/NlCufWQUL54)
 **
