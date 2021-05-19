@@ -23,8 +23,8 @@ Id 682981714523586606
 
 
 
-A FUN AND MODERATION BOT WITH 150+COMMNDS
-IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
+<h1> A FUN AND MODERATION BOT WITH 150+COMMNDS
+IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h1>
 
 
 **[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
@@ -64,7 +64,7 @@ Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/st
 ## 💨 Run the projects
  
 
-<h1> Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-9#README.md)
+<h1> Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10)
 
 ### START THE PROJECT IF U LIKE :)
 ##copyright ©️ 2021 Automod v12:
