@@ -35,9 +35,9 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot">
+<div align="center"><a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot"> 
     <img src="https://cdn.discordapp.com/attachments/824976037578014730/834743546417381414/350kb_1.gif" alt="Automodbot" />
-</a>
+</a> </div>
 
 
 <h3 align='center'> Bot support server </h3>
@@ -63,9 +63,10 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 ### How to host watch' video  Watch it by clicking [here](https://youtu.be/NlCufWQUL54)
 
-### If u got any error join our  discord server
-### If you want working version join our discord server ds.gg/cwkham
-## 💨 Run the projects
+<h3  align='center'>If u got any error join our  discord server
+ If you want working version join our discor server </h3>
+
+<h1 align='center'> 💨 Run the projects  </h1>
  
 
 ### Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10) 
