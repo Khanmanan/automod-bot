@@ -3,8 +3,10 @@
 Id 682981714523586606
 ## Categories 📑
 
+### START THE PROJECT IF U LIKE :)
 
-- ✅ music soon .
+
+- ✅ music 
 - ✅ moderation
 - ✅ NSFW 
 - ✅ Info
@@ -14,13 +16,14 @@ Id 682981714523586606
 - ✅ economy 
 - ✅ nsfw 
 - ✅ utility 
+- ✅ search
 - ✅ owner 
 - ✅ premium
  
 
 
 
-A FUN AND MODERATION BOT WITH 110+ COMMNDS 
+A FUN AND MODERATION BOT WITH 150+COMMNDS
 IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 
 
