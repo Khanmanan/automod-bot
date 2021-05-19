@@ -19,7 +19,7 @@
  "mongodb": "",
  "database": "",
  "BOT_ID": "744597377406599188",
- "embedcolor": "BLUE",
+ "embedcolor": "BLUE", 
  "EMOJI_ARROW":"🔄",
  "WELCOME_CHANNEL": "815889737750544405",
     "QUEUE_LIMIT": 2,
