@@ -1,6 +1,6 @@
 <h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js </h1>
 <h1 align='center'> Made by tag:- cw Khan#6496 </h1>
-Id 682981714523586606
+<h1 align='center'> Id 682981714523586606 </h1>
 
 
 <h1 align='center'> START THE PROJECT IF U LIKE :) </h1>
@@ -55,13 +55,15 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 </a>
 
-<h3 align='center'> 📝 Tutorial </h3>
+ <div align="center"><img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"></div> <h3 align='center'> Tutorial </h3>
 
- <h3 align='center'> Tutorial has been uploaded on YouTube </h3> <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/IX4DZq7iVf4)
+ <h3 align='center'> Tutorial has been uploaded on YouTube </h3> 
 
-** How to host watch' video <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/NlCufWQUL54)
-**
-### If u got ajy error join discord server
+###  Full setup [here](https://youtu.be/IX4DZq7iVf4) 
+
+### How to host watch' video  Watch it by clicking [here](https://youtu.be/NlCufWQUL54)
+
+### If u got any error join our  discord server
 ### If you want working version join our discord server ds.gg/cwkham
 ## 💨 Run the projects
  
