@@ -13,19 +13,19 @@
         "success": "☑️",
         "repeat": "🔁",
         "error": "❌",
- "YOUTUBE_API_KEY": "AIzaSyCpgbji1klCW_v6220mRyr3eY-WIFmXOKE",
+ "YOUTUBE_API_KEY": "",
  "premium": "682981714523586606",
  "PREFIX": "q",
- "mongodb": "mongodb+srv://Luca:Makro0807@cluster0.0fwfq.mongodb.net/ThatDiscordList?retryWrites=true&w=majority",
- "database": "mongodb+srv://Luca:Makro0807@cluster0.0fwfq.mongodb.net/ThatDiscordList?retryWrites=true&w=majority",
+ "mongodb": "",
+ "database": "",
  "BOT_ID": "744597377406599188",
  "embedcolor": "BLUE",
  "EMOJI_ARROW":"🔄",
  "WELCOME_CHANNEL": "815889737750544405",
     "QUEUE_LIMIT": 2,
     "owners": "682981714523586606",
-    "AME_API": "53408a3407689856dbb09cd643e3aef6b4dc7a42e883250cb7e925dc06b34d2b770138a392de59dffa81ac79f50745c2cbc817a9a8df0f2196bee6de7b0f7206",
+    "AME_API": "",
     "COLOR": "00FFFF",
-    "mongourl": "mongodb+srv://Luca:Makro0807@cluster0.0fwfq.mongodb.net/ThatDiscordList?retryWrites=true&w=majority"
+    "mongourl": ""
 }
 }
