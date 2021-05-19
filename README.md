@@ -64,7 +64,7 @@ Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/st
 ## 💨 Run the projects
  
 
-<h1> Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10)
+### Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10) 
 
 ### START THE PROJECT IF U LIKE :)
 ##copyright ©️ 2021 Automod v12:
