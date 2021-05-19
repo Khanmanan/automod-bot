@@ -42,18 +42,19 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 <h3 align='center'> Bot support server </h3>
 
-<a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
+<div align="center"> <a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 
 <br><br>
 
 </div>
 
 
-<a href="https://dsc.gg/abotsupport">
+<div align="center"> <a href="https://dsc.gg/abotsupport">
 
   <img titile="SRC" src="https://invidget.switchblade.xyz/kACM4NPN9F">
 
 </a>
+</div>
 
  <div align="center"><img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"></div> <h3 align='center'> Tutorial </h3>
 
