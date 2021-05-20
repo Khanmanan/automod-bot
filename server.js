@@ -180,9 +180,7 @@ new Player(client, {
     quality: 'high',
 });
 const fs = require('fs')
-const Levels = require("discord-xp");
 
-Levels.setURL("mongodb+srv://Luca:Makro0807@cluster0.0fwfq.mongodb.net/ThatDiscordList?retryWrites=true&w=majority");//can be putten in .env too and then imported
 
  client.on('guildCreate', guild =>{
 
