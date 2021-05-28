@@ -1,0 +1,27 @@
+{
+	"junk": {
+		"symbol": "🔧",
+		"max": 30,
+		"min": 10
+	},
+	"common": {
+		"symbol": "🐟",
+		"max": 70,
+		"min": 30
+	},
+	"uncommon": {
+		"symbol": "🐠",
+		"max": 90,
+		"min": 50
+	},
+	"rare": {
+		"symbol": "🦑",
+		"max": 175,
+		"min": 130
+	}, 
+  "legendary": {
+    "symbol": "🐋", 
+    "max": 500,
+    "min": 100
+  } 
+}
