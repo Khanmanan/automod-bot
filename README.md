@@ -20,11 +20,11 @@ Id 682981714523586606 </h1>
 - ✅ utility   
 - ✅ search
 - ✅ owner 
-- ✅ premium
+- ✅ premium. 
  
 
 
-
+   
 <h3> A FUN AND MODERATION BOT WITH 150+COMMNDS
 IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 <div align="center"> <a href=https://infinitybotlist.com/bots/744597377406599188 ">
