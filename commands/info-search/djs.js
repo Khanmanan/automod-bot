@@ -30,7 +30,7 @@ module.exports = {
                             "icon_url": "https://discord.js.org/favicon.ico"
                         },
                         "title": "Search results:",
-                        "description": "❌ **No results.**"
+                        "description": "❌ **No results please try again.**"
                     }
                 });
                 body.color = 0x4D5E94;
