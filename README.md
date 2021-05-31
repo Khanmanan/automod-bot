@@ -1,6 +1,6 @@
 <h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js 
  Made by tag:- cw Khan#6496 
-Id 682981714523586606 </h1>
+Id 682981714523586606 </h1> 
 
 
 <h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
