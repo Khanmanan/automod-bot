@@ -29,6 +29,7 @@ Id 682981714523586606 </h1>
 IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 <div align="center"> <a href=https://infinitybotlist.com/bots/744597377406599188 ">
 <img src="https://infinitybotlist.com/bots/744597377406599188/widget?size=large"/>
+<img src="https://discord4bots.tk/bot/744597377406599188/embed/"/>
  </a> </div>
 
 **[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
