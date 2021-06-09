@@ -28,7 +28,7 @@ Id 682981714523586606 </h1>
 <h3> A FUN AND MODERATION BOT WITH 150+COMMNDS
 IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 <div align="center"> <a href=https://infinitybotlist.com/bots/744597377406599188 ">
-<img src="https://infinitybotlist.com/bots/744597377406599188/widget?size=large"/>
+<img src="https://top.gg/api/widget/744597377406599188.svg"/>
  </a> </div>
 
 **[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
