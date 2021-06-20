@@ -26,7 +26,7 @@ Id 682981714523586606 </h1>
 
    
 <h3> A FUN AND MODERATION BOT WITH 150+COMMNDS
-IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
+IF YOU WANT ADD MORE COMMANDS JOIN OUR SUPPORT SERVER 😁 </h3>
 <div align="center"> <a href="https://top.gg/bot/744597377406599188">
 <img src="https://top.gg/api/widget/744597377406599188.svg"/>
  </a> </div>
@@ -64,15 +64,15 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 ###  Full setup [here](https://youtu.be/IX4DZq7iVf4) 
 
-### How to host watch' video  Watch it by clicking [here](https://youtu.be/NlCufWQUL54)
+### How to host the bot 24/7 for free, full tutorial by clicking [here](https://youtu.be/NlCufWQUL54)
 
-<h3  align='center'>If u got any error join our  discord server
- If you want working version join our discor server </h3>
+<h3  align='center'>If u got any error join our discord server
+ If you want working version join our discord server </h3>
 
 <h1 align='center'> 💨 Run the projects  </h1>
  
 
-### Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10) 
+### Fork Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10) 
 
-### START THE PROJECT IF U LIKE :)
+### STAR THE PROJECT IF U LIKE :)
 ### copyright ©️ 2021 Automod v12:
