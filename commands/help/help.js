@@ -17,8 +17,8 @@ module.exports = {
 
       let embed = new MessageEmbed()
         .setAuthor(command.name, client.user.displayAvatarURL())
-        .addField("❯ Description", command.description || "Not Provided :(")
-        .addField("❯ Usage", "`" + command.usage + "`" || "Not Provied")
+        .addField("> ❯ Description", command.description || "Not Provided :(")
+        .addField("> ❯ Usage", "`" + command.usage + "`" || "Not Provied")
         .setThumbnail(client.user.displayAvatarURL())
         .setColor("BLUE")
         .setFooter(client.user.username, client.user.displayAvatarURL());
@@ -54,10 +54,8 @@ module.exports = {
 
         emx.addField(`${category.toUpperCase()}[${value.length}]`, desc);
       }
-     emx.addField('important links ','**:link:  [Support](https://dsc.gg/abotsupport)**  | **[website](https://automodbot.ml)**')
-      return message.inlineReply({
-  embed: emx,
-})
+     emx.addField('important links ','**:link:  [Support](https://dsc.gg/abotsupport)**  | **[website](https://automodbot.com)**')
+      return message.channel.send(emx)
 
     }
   }
