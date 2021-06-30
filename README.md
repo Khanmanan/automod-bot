@@ -53,7 +53,7 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 <div align="center"> <a href="https://dsc.gg/abotsupport">
 
-  <img titile="SRC" src="https://invidget.switchblade.xyz/kACM4NPN9F">
+  <img titile="abot" src="https://invidget.switchblade.xyz/kACM4NPN9F">
 
 </a>
 </div>
