@@ -19,8 +19,8 @@ Id 682981714523586606 </h1>
 - ✅ nsfw 
 - ✅ utility   
 - ✅ search
-- ✅ owner 
-- ✅ premium. 
+- ✅ owner
+
  
 
 
