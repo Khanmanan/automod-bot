@@ -2,11 +2,7 @@
 "$TOEKN"
 // if you need help ask in the help channel dont dm me
  const { default_prefix } = require("./config.json")
- const DisTube = require("distube")
- 
- 
-const { config } = require("dotenv");
-const fetch = require("node-fetch");
+ const fetch = require("node-fetch");
 const db =require("quick.db");
 const moment = require("moment");
 const { CanvasSenpai } = require("canvas-senpai")
@@ -100,10 +96,6 @@ fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(me
 }
 });
 
-//LEVEL
-
-
-
 client.snipes = new Map()
 client.on('messageDelete', function(message, channel){
   
@@ -117,7 +109,6 @@ client.on('messageDelete', function(message, channel){
  
 
 const { GiveawaysManager } = require("discord-giveaways");
-// Starts updating currents giveaways
 const manager = new GiveawaysManager(client, {
     storage: "./handlers/giveaways.json",
     updateCountdownEvery: 10000,
@@ -128,7 +119,7 @@ const manager = new GiveawaysManager(client, {
         reaction: "🎉"
     }
 });
-// We now have a giveawaysManager property to access the manager everywhere!
+
 client.giveawaysManager = manager;
 
 client.on("message", async message => {
@@ -139,32 +130,19 @@ if(!message.guild) return;
   if(!message.content.startsWith(default_prefix)) return;
  
 })
-
-
-// Set the bot's online/idle/dnd/invisible status
 client.on("ready", () => {
     client.user.setStatus("online");
     console.log("automodv12 beta is ready join support server https://dsc.gg/kmdevs")
 });
-client.on("message", async message => {
-if(!message.guild) return;
-  let prefix = db.get(`prefix_${message.guild.id}`)
-  if(prefix === null) prefix = default_prefix;
-  
-  if(!message.content.startsWith(prefix)) return;
- 
-})
- 
 
-require('http').createServer((req, res) => res.end('AutomodBot is alive!')).listen(3000)
+ require('http').createServer((req, res) => res.end('AutomodBot is alive! Join support server https;//dsc.gg/cwkhan')).listen(3000)
 
 
 client.on
 client.on("ready", () => {
-    client.user.setActivity("qhelp| qinvite", { type: "WATCHING"})
+    client.user.setActivity("qhelp|Made By cwkhan ", { type: "PLAYING"})
 })
 const { Player } = require("discord-music-player");
-//const prefixes = require("wokcommands/dist/models/prefixes");
 const player = new Player(client, {
     leaveOnEmpty: false,
 });
@@ -187,7 +165,7 @@ const fs = require('fs')
     const channelId = '841994461126197248'; //put your channel ID here
 
     const channel = client.channels.cache.get(channelId); 
-     //This Gets The Guild Owner
+     
     if(!channel) return; //If the channel is invalid it returns
     const embed = new discord.MessageEmbed()
         .setTitle('I Joined A Guild!')
