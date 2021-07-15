@@ -72,7 +72,10 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 <h1 align='center'> 💨 Run the projects  </h1>
  
 
-### Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10) 
+## 💨 Run the projects
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Khanmanan/automod-bot/)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/Khanmanan/automod-bot)](https://repl.it/github/Khanmanan/automod-bot/)
+Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Khanmanan/automod-bot/)
 
 ### START THE PROJECT IF U LIKE :)
 ### copyright ©️ 2021 Automod v12:
