@@ -4,7 +4,7 @@ module.exports = {
     name: 'join', // Optional
     aliases: [], // Optional
     category: 'Music',
-    description: 'Join the voice channel!', 
+    description: 'Join the voice channel!',
         run: async (client, message, args) => {
             const voiceChannel = message.member.voice.channel;
             const embed = new MessageEmbed()
@@ -13,6 +13,6 @@ module.exports = {
             if(!voiceChannel) return message.channel.send(embed)
             voiceChannel.join()
             message.react('🪐')
-              
+
           }
 }

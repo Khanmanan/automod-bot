@@ -5,7 +5,7 @@ const { randomRange } = require('../../functions');
 const { MessageEmbed } = require('discord.js');
 
 module.exports = {
-    
+
         name: 'fish',
         aliases: ['catchfish'],
         category: 'economy',
@@ -18,7 +18,7 @@ module.exports = {
         let user = message.author;
 
         let bal = db.fetch(`money_${user.id}`)
-   
+
         let fish = await db.fetch(`fish_${user.id}`)
         if (!args[0]) {
             if (bal === null) bal = 0;
@@ -68,7 +68,7 @@ module.exports = {
 🦑Rare      :: Max Reward: 75, Min Reward: 30
 🐋Legendary :: Max Reward: 100, Min Reward: 50\`\`\`
 **All reward are random from max/min**
-​
+
 `)
                 .setFooter(message.guild.name, message.guild.iconURL())
             return message.channel.send(lEmbed);

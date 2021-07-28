@@ -3,7 +3,7 @@ const db = require("quick.db");
 const { default_prefix } = require('../../config');
 
 module.exports = {
-   
+
         name: "roulette",
         aliases: ["roul"],
         category: "economy",
@@ -20,7 +20,7 @@ module.exports = {
         } else {
             prefix = fetched
         }
-      
+
         let user = message.author;
 
         function isOdd(num) {

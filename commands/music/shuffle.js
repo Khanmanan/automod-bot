@@ -4,7 +4,7 @@ module.exports = {
     name: 'shuffle', // Optional
     aliases: ['sh'], // Optional
     category: 'Music',
-    description: 'Shuffle the queue', 
+    description: 'Shuffle the queue',
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;
             const embed = new MessageEmbed()

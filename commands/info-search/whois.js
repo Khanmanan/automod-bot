@@ -17,7 +17,7 @@ module.exports = {
     } else {
 
 
-   
+
 
 
       user = message.mentions.members.first() || await message.guild.members.fetch(args[0]).catch(err => { return message.channel.send(":x: Unable to find this Person") })
@@ -75,7 +75,7 @@ module.exports = {
       //EMBED COLOR BASED ON member
       embed.setColor(user.displayHexColor === "#000000" ? "#ffffff" : user.displayHexColor)
 
-      //OTHER STUFF 
+      //OTHER STUFF
       embed.setAuthor(user.user.tag, user.user.displayAvatarURL({ dynamic: true }))
 
       //CHECK IF USER HAVE NICKNAME

@@ -4,7 +4,7 @@ module.exports = {
     name: 'skip', // Optional
     aliases: ['sk'], // Optional
     category: 'Music',
-    description: 'Skip the song that its playing.', 
+    description: 'Skip the song that its playing.',
         run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;
             const embed = new MessageEmbed()

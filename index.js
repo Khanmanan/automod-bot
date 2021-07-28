@@ -27,9 +27,9 @@ client.aliases = new discord.Collection();
 client.queue = new Map()
 process.on('unhandledRejection', console.error);
 
-  
+
 client.on("message", async message => {
- 
+
 
   if (message.author.bot) return;
   if (!message.guild) return;
@@ -63,7 +63,7 @@ client.on("guildMemberAdd", async member => {
     return;
 
   }
- let data = await canva.welcome(member, { link: "https://cdn.discordapp.com/attachments/815889737750544405/827575020338675822/welcome_imgae.png",blur: false }) 
+ let data = await canva.welcome(member, { link: "https://cdn.discordapp.com/attachments/815889737750544405/827575020338675822/welcome_imgae.png",blur: false })
    const attachment = new discord.MessageAttachment(
 
       data,
@@ -98,15 +98,15 @@ fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(me
 
 client.snipes = new Map()
 client.on('messageDelete', function(message, channel){
-  
+
   client.snipes.set(message.channel.id, {
     content:message.content,
     author:message.author.tag,
     image:message.attachments.first() ? message.attachments.first().proxyURL : null
   })
-  
+
 })
- 
+
 
 const { GiveawaysManager } = require("discord-giveaways");
 const manager = new GiveawaysManager(client, {
@@ -126,9 +126,9 @@ client.on("message", async message => {
 if(!message.guild) return;
   let prefix = db.get(`default_prefix${message.guild.id}`)
   if(prefix === null) prefix =default_prefix;
-  
+
   if(!message.content.startsWith(default_prefix)) return;
- 
+
 })
 client.on("ready", () => {
     client.user.setStatus("online");
@@ -164,8 +164,8 @@ const fs = require('fs')
 
     const channelId = '841994461126197248'; //put your channel ID here
 
-    const channel = client.channels.cache.get(channelId); 
-     
+    const channel = client.channels.cache.get(channelId);
+
     if(!channel) return; //If the channel is invalid it returns
     const embed = new discord.MessageEmbed()
         .setTitle('I Joined A Guild!')
@@ -180,7 +180,7 @@ const fs = require('fs')
 client.on('guildDelete', guild =>{
     const channelId = '841994754399928341';//add your channel ID
     const channel = client.channels.cache.get(channelId); //This Gets That Channel
-    
+
     if(!channel) return;  //If the channel is invalid it returns
     const embed = new discord.MessageEmbed()
         .setTitle('I Left A Guild!')
@@ -191,7 +191,7 @@ client.on('guildDelete', guild =>{
     channel.send(embed);
 });
 
- 
+
 console.log("Subscribe on yt cwkhan")
 
 const smartestchatbot = require('smartestchatbot')
@@ -221,7 +221,7 @@ require("./ExtendedMessage");
         // set repliedUser value to `false` to turn off the mention by default
         repliedUser: true
     }
-    
-    
+
+
 
 client.login(process.env.TOKEN);

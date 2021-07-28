@@ -2,7 +2,7 @@ const { MessageEmbed } = require("discord.js");
 const db = require("quick.db");
 
 module.exports = {
- 
+
     name: "pay",
     noalias: [""],
     category: "economy",
@@ -72,7 +72,7 @@ try {
     db.add(`money_${user.id}`, args[1]);
     db.subtract(`money_${user2.id}`, args[1]);
     } catch {
-        
+
     }
   }
 };

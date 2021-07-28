@@ -2,13 +2,13 @@ const { MessageEmbed } = require("discord.js");
 const db = require("quick.db");
 
 module.exports = {
-    
+
         name: "withdraw",
         aliases: ["wd"],
         category: "economy",
         description: "Withdraws Money From Bank",
         usage: "<amount>",
-    
+
     run: async (bot, message, args) => {
         let user = message.author;
 
@@ -24,12 +24,12 @@ module.exports = {
             db.add(`money_${user.id}`, money)
             let embed5 = new MessageEmbed()
                 .setColor("GREEN")
-                .setDescription(`✅ You have withdrawn all your coins from your bank`); 
+                .setDescription(`✅ You have withdrawn all your coins from your bank`);
             message.channel.send(embed5)
 
         } else {
 
-            let embed2 = new MessageEmbed() 
+            let embed2 = new MessageEmbed()
                 .setColor("GREEN")
                 .setDescription(`❌ Specify an amount to withdraw!`);
 

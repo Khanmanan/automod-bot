@@ -6,7 +6,7 @@ module.exports = {
   description: "get affected, REALLY AFFECTED",
   usage: "jail <user>",
   run: async (client, message, args) => {
-    
+
    const Member = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.member;
 
     const Embed = new Discord.MessageEmbed()

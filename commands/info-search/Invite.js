@@ -4,7 +4,7 @@ const Discord = require('discord.js');
 
 
 module.exports = {
-  
+
         name:"invites",
         aliases: ["invs"],
         category: "info",

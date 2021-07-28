@@ -18,10 +18,10 @@
 		"symbol": "🦑",
 		"max": 175,
 		"min": 130
-	}, 
+	},
   "legendary": {
-    "symbol": "🐋", 
+    "symbol": "🐋",
     "max": 500,
     "min": 100
-  } 
+  }
 }

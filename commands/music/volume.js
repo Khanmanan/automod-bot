@@ -3,7 +3,7 @@ const { MessageEmbed } = require("discord.js");
 module.exports = {
     name: 'volume', // Optional
     category: 'Music',
-    description: 'Set the volume of the bot in the vc', 
+    description: 'Set the volume of the bot in the vc',
     aliases: ['setvolume'], // Optional
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;

@@ -30,7 +30,7 @@ module.exports = {
 
             message.channel.send("Reply `skip` or `no` for next question, Reply `cancel` to stop the command.");
 
-    
+
 
             //===============================================================================================
 
@@ -44,7 +44,7 @@ module.exports = {
 
             if (title.first().content !== 'skip' && title.first().content !== 'cancel') embed.setTitle(title.first().content);
 
-    
+
 
             //===============================================================================================
 
@@ -58,7 +58,7 @@ module.exports = {
 
             if (Description.first().content !== 'skip' && Description.first().content !== 'cancel') embed.setDescription(Description.first().content);
 
-    
+
 
             //===============================================================================================
 
@@ -70,9 +70,9 @@ module.exports = {
 
             if (Footer.first().content == 'cancel') return message.channel.send('Embed Generator Cancelled. ')
 
-            if (Footer.first().content !== 'skip' && Footer.first().content !== 'cancel') embed.setFooter(Footer.first().content); 
+            if (Footer.first().content !== 'skip' && Footer.first().content !== 'cancel') embed.setFooter(Footer.first().content);
 
-    
+
 
             //===============================================================================================
 
@@ -90,7 +90,7 @@ module.exports = {
 
             }
 
-    
+
 
             //===============================================================================================
 
@@ -104,7 +104,7 @@ module.exports = {
 
             if (Color.first().content !== 'skip' && Color.first().content !== 'cancel') embed.setColor(Color.first().content.toUpperCase() || "2f3136")
 
-    
+
 
             //===============================================================================================
 
@@ -118,7 +118,7 @@ module.exports = {
 
             if (Author.first().content !== 'skip' && Author.first().content !== 'cancel') embed.setAuthor(Author.first().content);
 
-    
+
 
             //===============================================================================================
 
@@ -132,7 +132,7 @@ module.exports = {
 
             if (TimeStamp.first().content !== 'yes') embed.setTimestamp();
 
-    
+
 
             message.channel.send(embed)
 

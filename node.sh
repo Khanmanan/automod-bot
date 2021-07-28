@@ -1,7 +1,7 @@
 export NVM_DIR=/home/runner/nvm
 export NODE_VERSION=14
 
-if ! ls $NVM_DIR > /dev/null 2>&1 
+if ! ls $NVM_DIR > /dev/null 2>&1
 then mkdir -p $NVM_DIR
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 fi

@@ -2,7 +2,7 @@ const { MessageEmbed } = require("discord.js");
 const db = require("quick.db");
 
 module.exports = {
-   
+
         name: "addmoney",
         aliases: ["am"],
         category: "economy",

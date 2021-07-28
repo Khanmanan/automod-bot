@@ -31,7 +31,7 @@ module.exports = {
     await message.channel.send(`**${message.mentions.users.first().username}** is now unmuted`);
 
     user.send(`You are now unmuted from **${message.guild.name}**`);
-    
+
     message.delete()
   }
 };

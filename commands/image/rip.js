@@ -8,7 +8,7 @@ module.exports = {
   description: "Shows RIP create with user avatar",
   usage: "rip <user>",
   run: async (client, message, args) => {
-    
+
    const Member = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.member;
 
     const Embed = new Discord.MessageEmbed()

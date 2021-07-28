@@ -30,7 +30,7 @@ module.exports = {
 
       let embed = new Discord.MessageEmbed()
         .setAuthor(bot.user.tag, bot.user.displayAvatarURL({dynamic : true}))
-        
+
         .setColor("00FFFF")
         .setFooter(`Page - ${page}/${Math.ceil(bot.guilds.cache.size / 10)}`)
         .setDescription(description);

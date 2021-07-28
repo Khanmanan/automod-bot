@@ -1,13 +1,13 @@
 const discord = require('discord.js')
 const fetch = require("node-fetch")
- 
+
 module.exports = {
     name: "findemoji",
     aliases: ["finde", "fe"],
     category: "utility",
     description: "Steals Emoji from Other Servers to ur Server.",
     authorPermission: ["MANAGE_EMOJIS"],
- 
+
     run: async (client, message, args) => {
       if (!message.member.hasPermission("MANAGE_EMOJIS")) {
             return message.channel.send(`You Don't Have Permission To Use This Command! Manage Emojis`)
@@ -15,11 +15,11 @@ module.exports = {
 let emojis = await fetch("https://emoji.gg/api/").then(res => res.json());
      const q = args.join(" ").toLowerCase().trim().split(" ").join("_");
      let matches = emojis.filter(s => s.title == q || s.title.includes(q));
-     
+
      let noResult = new discord.MessageEmbed()
         .setDescription(`| :x: No Results found for ${args.join(" ")}!`)
         .setColor("FF2052")
-     
+
      if (!matches.length) return message.channel.send(noResult)
      let page = 0;
      let embed = new discord.MessageEmbed()
@@ -76,7 +76,7 @@ rmsg.reactions.resolve(reaction.emoji.name).users.remove(message.author.id).catc
       const res = matches[page];
       let created;
       message.channel.startTyping();
-      try { 
+      try {
         created = await message.guild.emojis.create(res.image, res.title);
         message.channel.stopTyping();
        } catch {
@@ -90,12 +90,12 @@ rmsg.reactions.resolve(reaction.emoji.name).users.remove(message.author.id).catc
       rmsg.reactions.resolve(reaction.emoji.name).users.remove(message.author.id).catch(err => {})
        doing = false;
        break;
- 
+
      } else if (reaction.emoji.name == emojis[3]) {
        message.channel.send("Cancelled command.");
        msg.reactions.removeAll();
        return;
      }};
-     
+
     }
 }

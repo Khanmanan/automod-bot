@@ -4,7 +4,7 @@ module.exports = {
     name: 'disable-loop', // Optional
     aliases: [], // Optional
     category: 'Music',
-    description: 'Stop looping the queue', 
+    description: 'Stop looping the queue',
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;
             const embed = new MessageEmbed()

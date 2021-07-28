@@ -4,7 +4,7 @@ module.exports = {
     name: 'playlist',
     aliases: ['plist'], // Optional
     category: 'Music',
-    description: 'Play a playlist in the vc', 
+    description: 'Play a playlist in the vc',
     run: async (client, message, args) => {
         const voice_channel = message.member.voice.channel;
         const embed = new MessageEmbed()

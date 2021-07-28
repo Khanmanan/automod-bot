@@ -15,7 +15,7 @@ module.exports = {
        try {
 
   if (!args[0]) return message.channel.send(`Please Give Me A Username!`)
-    
+
   fetch(`https://api.github.com/users/${args.join('-')}`)
     .then(res => res.json()).then(body => {
       if(body.message) return message.channel.send(`User Not Found | Please Give Me A Valid Username!`);

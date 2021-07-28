@@ -4,7 +4,7 @@ module.exports = {
     name: 'loop', // Optional
     aliases: [], // Optional
     category: 'Music',
-    description: 'Loop the queue', 
+    description: 'Loop the queue',
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;
             const embed = new MessageEmbed()

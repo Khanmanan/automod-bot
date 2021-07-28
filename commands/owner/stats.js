@@ -11,7 +11,7 @@ run: async (client, message, args, level) => {
     .setDescription("<:astroz_wrong:825598313499459605> This Command Only Use By My Owner **Cwkhan ")
     .setColor("YELLOW");
     return message.channel.send(noperms)
-  } 
+  }
 
 let servers_count = message.client.guilds.cache.size;
 var myarray = [];
@@ -50,7 +50,7 @@ let embed = new MessageEmbed()
     { name: "<a:Owner:822760998938869760> Bot Owner:",value: `\`\`\`Cwkhan\`\`\``},
   )
   .setColor("3498DB")
-  .setFooter("Thx For Choosing automodbot")  
+  .setFooter("Thx For Choosing automodbot")
 
 return message.channel.send(embed);
     return message.react("<:astroz_correct:825597747800309770>");

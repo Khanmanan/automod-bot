@@ -1,11 +1,11 @@
 const fetch = require("node-fetch");
 
 module.exports = {
-     
+
         name: "discord",
         category: "search",
         aliases: ["discorddocs", "djs", "docs"],
-    
+
     run: async(client, message, args) => {
         const search = args[0];
         if (!search) return message.channel.send({

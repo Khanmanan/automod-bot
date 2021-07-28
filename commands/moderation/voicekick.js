@@ -18,7 +18,7 @@ module.exports = {
       return message.channel.send(`User Is Not In Any Voice Channel!`);
 
     message.mentions.members.first().voice.kick();
-    
+
     message.channel.send(`User Has Been Kicked From Voice Channel!`)
   }
 };

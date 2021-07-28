@@ -5,7 +5,7 @@ const Jwork = require('../../JSON/works.json');
 const JworkR = Jwork[Math.floor(Math.random() * Jwork.length)];
 
 module.exports = {
-   
+
         name: "work",
         aliases: ["wr"],
         category: "economy",

@@ -1,9 +1,9 @@
 const slotItems = ["🍇", "🍉", "🍌", "🍎", "🍒"];
 const db = require("quick.db");
-const { MessageEmbed } = require('discord.js');  
+const { MessageEmbed } = require('discord.js');
 
 module.exports = {
-  
+
         name:"slots",
         aliases: ["sl"],
         category: "economy",
@@ -24,7 +24,7 @@ module.exports = {
 
     let moneyhelp = new MessageEmbed()
     .setColor("GREEN")
-    .setDescription(`❌ Specify an amount`); 
+    .setDescription(`❌ Specify an amount`);
 
     if (!money) return message.channel.send(moneyhelp);
     if (money > moneydb) return message.channel.send(moneymore);
@@ -32,10 +32,10 @@ module.exports = {
     let number = []
     for (let i = 0; i < 3; i++) { number[i] = Math.floor(Math.random() * slotItems.length); }
 
-    if (number[0] == number[1] && number[1] == number[2])  { 
+    if (number[0] == number[1] && number[1] == number[2])  {
         money *= 9
         win = true;
-    } else if (number[0] == number[1] || number[0] == number[2] || number[1] == number[2]) { 
+    } else if (number[0] == number[1] || number[0] == number[2] || number[1] == number[2]) {
         money *= 3
         win = true;
     }

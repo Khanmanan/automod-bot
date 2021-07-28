@@ -6,7 +6,7 @@ module.exports = {
     name: 'info-backup',
     aliases: [],
     category: 'backup',
-    
+
 
    run: async (client, message, args) => {
     // If the member doesn't have enough permissions

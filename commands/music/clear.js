@@ -4,7 +4,7 @@ module.exports = {
     name: 'clear', // Optional
     aliases: ['clearqueue', 'clear-queue'], // Optional
     category: 'Music',
-    description: 'Clears the queue', 
+    description: 'Clears the queue',
     run: async (client, message, args) => {
         const voice_channel = message.member.voice.channel;
         const embed = new MessageEmbed()

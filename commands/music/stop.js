@@ -3,7 +3,7 @@ const { MessageEmbed } = require("discord.js");
 module.exports = {
     name: 'stop', // Optional
     category: 'Music',
-    description: 'Clears the queue and leave the vc', 
+    description: 'Clears the queue and leave the vc',
     aliases: ['st'], // Optional
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;

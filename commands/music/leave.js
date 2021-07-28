@@ -4,8 +4,8 @@ module.exports = {
     name: 'leave', // Optional
     aliases: [], // Optional
     category: 'Music',
-    description: 'Leaves the voice channel!', 
-        
+    description: 'Leaves the voice channel!',
+
         run: async (client, message, args) => {
             const voiceChannel = message.member.voice.channel;
             const embed = new MessageEmbed()
@@ -14,6 +14,6 @@ module.exports = {
             if(!voiceChannel) return message.channel.send(embed)
             voiceChannel.leave()
             message.react('🪐')
-              
+
           }
 }

@@ -28,14 +28,14 @@ module.exports = {
                 backup.load(backupID, message.guild).then(() => {
 
                     return message.author.send('Backup loaded successfully!');
-            
+
                 }).catch((err) => {
-            
+
                     if (err === 'No backup found')
                         return message.channel.send(':x: No backup found for ID '+backupID+'!');
                     else
                         return message.author.send(':x: An error occurred: '+(typeof err === 'string') ? err : JSON.stringify(err));
-            
+
                 });
 
             } else {

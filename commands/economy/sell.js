@@ -3,7 +3,7 @@ const db = require('quick.db');
 const { default_prefix } = require('../../config')
 
 module.exports = {
-   
+
         name: "sell",
         noalias: [""],
         category: "economy",

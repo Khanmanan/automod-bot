@@ -7,7 +7,7 @@ module.exports = {
   category: "nsfw",
   description: "Get some wallpapers",
   run: async (client, message, args) => {
-    
+
     let akanekoSan = new discord.MessageEmbed()
     akanekoSan.setColor("RANDOM")
     akanekoSan.setImage(akaneko.mobileWallpapers());

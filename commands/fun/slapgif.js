@@ -9,10 +9,10 @@ module.exports = {
   description: "Return A Slap Image!",
   usage: "Slap <Mention Or ID> | <Text>",
   run: async (client, message, args) => {
-    
+
     const Member = message.mentions.members.first() || message.guild.members.cache.get(args[0]);
     if (!Member) return message.channel.send("Please Mention Or Give ID Of A Member!");
-   
+
     const Other = args.slice(1).join(" ") || "Don't Be Gay";
     if (Other.length > 50) return message.channel.send("Characters Limit Reached - 50!");
 

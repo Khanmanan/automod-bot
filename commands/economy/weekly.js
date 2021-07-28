@@ -3,7 +3,7 @@ const db = require("quick.db");
 const ms = require("parse-ms");
 
 module.exports = {
-   
+
         name: "coins-system",
         aliases: ["week"],
         category: "economy",
@@ -29,7 +29,7 @@ module.exports = {
         } else {
             let moneyEmbed = new MessageEmbed()
                 .setColor("GREEN")
-                .setDescription(`✅ You've collected your weekly reward of ${amount} coins`); 
+                .setDescription(`✅ You've collected your weekly reward of ${amount} coins`);
             message.channel.send(moneyEmbed)
             db.add(`money_${user.id}`, amount)
             db.set(`weekly_${user.id}`, Date.now())

@@ -1,7 +1,7 @@
 const { createCanvas, loadImage } = require('canvas');
 const request = require('node-superfetch');
 module.exports = {
-    
+
         name: "avatarfusion",
         aliases: ["avs"],
         category: "Image",

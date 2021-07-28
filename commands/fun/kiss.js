@@ -7,17 +7,17 @@ module.exports = {
   category: "fun",
   description: "Kiss someone",
   run: async (client, message, args) => {
-    
+
     let target = message.mentions.members.first()
-    
+
     let data = await random.getAnimeImgURL("kiss");
-    
+
     let embed = new discord.MessageEmbed()
     .setImage(data)
     .setColor("RANDOM")
     .setFooter(`${message.author.username} kisses ${target.user.username}`)
     .setTimestamp()
-    
+
     message.channel.send(embed);
   }
 };

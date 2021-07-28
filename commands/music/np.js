@@ -4,7 +4,7 @@ module.exports = {
     name: 'nowplaying', // Optional
     aliases: ['np'], // Optional
     category: 'Music',
-    description: 'Gives info about the song that its being played and the progress of it', 
+    description: 'Gives info about the song that its being played and the progress of it',
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;
             const embed = new MessageEmbed()
@@ -15,9 +15,9 @@ module.exports = {
                 size: 20,
                 block: '▬',
                 arrow: '🔘'
-            
 
-                
+
+
             });
             let song = await client.player.nowPlaying(message)
             const bar = new MessageEmbed()
@@ -29,9 +29,9 @@ module.exports = {
 
             if(progressBar)
 
-            
 
-                
+
+
                 message.channel.send(bar);
     }
 }

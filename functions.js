@@ -140,7 +140,7 @@ module.exports = {
     if (bot) str = str.replace(botInvRegex, text);
     return str;
   },
-  
+
   wrapText (ctx, text, maxWidth) {
 		return new Promise(resolve => {
 			if (ctx.measureText(text).width < maxWidth) return resolve([text]);

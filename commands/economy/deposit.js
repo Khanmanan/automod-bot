@@ -2,7 +2,7 @@ const { MessageEmbed } = require("discord.js");
 const db = require("quick.db");
 
 module.exports = {
-    
+
         name: "deposit",
         aliases: ["dep"],
         category: "economy",
@@ -48,7 +48,7 @@ module.exports = {
 
             if(isNaN(args[0])) {
                 return message.channel.send(embed6)
-            
+
             }
             let embed3 = new MessageEmbed()
                 .setColor("GREEN")

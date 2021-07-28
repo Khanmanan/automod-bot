@@ -5,7 +5,7 @@ module.exports = {
     name: 'queue', // Optional
     aliases: ['q'], // Optional
     category: 'Music',
-    description: 'Gives you info about the server queue', 
+    description: 'Gives you info about the server queue',
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;
             const embed = new MessageEmbed()

@@ -3,7 +3,7 @@ const db = require('quick.db')
 const { default_prefix } = require('../../config');
 
 module.exports = {
-    
+
         name: "buy",
         noalias: [""],
         category: "economy",
@@ -22,7 +22,7 @@ module.exports = {
         } else {
             prefix = fetched
         }
-      
+
         let author = db.fetch(`money_${user.id}`)
 
         let Embed = new MessageEmbed()

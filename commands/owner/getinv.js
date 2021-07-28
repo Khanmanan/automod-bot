@@ -6,7 +6,7 @@ module.exports = {
         category: "owner",
         description: "Generates an invitation to  server in question.",
         usage: "[ID | name]",
-      
+
     run: async(bot, message, args) => {
         if (message.author.id === ownerid) {
         let guild = null;
@@ -29,7 +29,7 @@ module.exports = {
         if(guild){
             let tChannel = guild.channels.cache.find(ch => ch.type == "text" && ch.permissionsFor(ch.guild.me).has("CREATE_INSTANT_INVITE"));
             if(!tChannel) {
-                return message.channel.send("Sorry, I doesn't have CREATE_INSTANT_INVITE Permission There!"); 
+                return message.channel.send("Sorry, I doesn't have CREATE_INSTANT_INVITE Permission There!");
             }
             let invite = await tChannel.createInvite({ temporary: false, maxAge: 0 }).catch(err => {
                 return message.channel.send(`${err} has occured!`);

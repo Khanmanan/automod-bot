@@ -11,7 +11,7 @@ module.exports = {
   run: async (client, msg, args) => {
     let user = args[0]
     if(!user) return msg.channel.send("Provide your twitter name")
-    
+
     try {
       const body = await twitter.users(user)
       const tweet = new Discord.MessageEmbed()

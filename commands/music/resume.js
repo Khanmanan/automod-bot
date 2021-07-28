@@ -4,7 +4,7 @@ module.exports = {
     name: 'resume', // Optional
     aliases: ['resume'], // Optional
     category: 'Music',
-    description: 'Resume the song that was paused', 
+    description: 'Resume the song that was paused',
     run: async (client, message, args) => {
             const voice_channel = message.member.voice.channel;
             const embed = new MessageEmbed()

@@ -8,7 +8,7 @@ description: "kick a user",
 cooldown: 5,
 userPerms: ["KICK_MEMBERS"],
 clientPerms: ["KICK_MEMBERS"],
-run: async(client, message, args) => {  
+run: async(client, message, args) => {
 const mentionedMember = message.mentions.members.first() || message.guild.members.cache.get(args[0])
 const reason = args.slice(1).join(" ")
           if (!args[0]) return message.channel.send(":x: | **Specify someone to kick.**")

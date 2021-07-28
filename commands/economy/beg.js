@@ -3,7 +3,7 @@ const db = require("quick.db");
 const ms = require("parse-ms");
 
 module.exports = {
- 
+
         name: "beg",
         noalias: [""],
         category: "economy",

@@ -9,7 +9,7 @@ module.exports = {
  // users will need premium to execute this
   run: async (bot, message, args) => {
 
-        
+
      message.buttons('Invite me', {
             buttons: [
                 {

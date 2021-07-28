@@ -7,19 +7,19 @@ module.exports = {
         category: "utility",
         aliases: ["discrim"],
   run: async (client, message, args) => {
-    
+
     let men = message.mentions.users.first();
-    
+
     let discrims;
     let dis;
     let content;
-    
+
     if (men) {
       discrims = client.users.cache.filter(user => user.discriminator === men.discriminator).map(user => user.tag);
 
       dis = client.users.cache.filter(user => user.discriminator === men.discriminator).map(user => user.discriminator);
     }
-    
+
     if (!men) {
       if (args[0]) {
         discrims = client.users.cache.filter(user => user.discriminator === args[0].replace('#', "")).map(user => user.tag);
@@ -27,7 +27,7 @@ module.exports = {
         dis = client.users.cache.filter(user => user.discriminator === args[0].replace('#', "")).map(user => user.discriminator);
       }
     }
-    
+
     if (!args[0]) {
       discrims = client.users.cache.filter(user => user.discriminator === message.author.discriminator).map(user => user.tag);
 
@@ -75,7 +75,7 @@ module.exports = {
     if (discrims[9]) {
       content = `\n#10 - ${discrims[9]}`
     }
-    
+
     sourcebin.create([{
       name: `Discriminatorsâ€`,
       content: discrims.join('\n'),
@@ -87,12 +87,12 @@ module.exports = {
       .setTitle(`Users with ${dis[0]}`)
       .setDescription(`${content}\n\n**[Url](${src.url})**`)
       .setFooter(`Found ${discrims.length} users`, client.user.displayAvatarURL())
-      
+
       message.channel.send(embed);
     })
   .catch(e => {
          message.channel.send(`Error, try again later`)
    });
-      
+
   }
 }
