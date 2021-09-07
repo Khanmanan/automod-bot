@@ -224,4 +224,4 @@ require("./ExtendedMessage");
     
     
 
-client.login(process.env.TOKEN);
+client.login(process.env.ODgzMzE0NjY1ODEwMTY5ODg4.YTII4w.ifHzAEqfJ9XyfXa3EqBv1_WFwyM);
