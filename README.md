@@ -41,24 +41,22 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
     <img src="https://cdn.discordapp.com/attachments/824976037578014730/834743546417381414/350kb_1.gif" alt="Automodbot" />
 </a> </div>
 
-
 <h3 align='center'> Bot support server </h3>
-
-<div align="center"> <a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
+<div align="center"> <a href="https://discord.gg/7P6WjqRcft"><img src="https://img.shields.io/discord/787315610102530048?label=discord&logo=Discord&style=for-the-badge" alt="Discord server" /></a><div align="center">
 
 <br><br>
 
 </div>
 
 
-<div align="center"> <a href="https://dsc.gg/abotsupport">
-
-  <img titile="abot" src="https://invidget.switchblade.xyz/kACM4NPN9F">
+<div align="center">
 
 </a>
-</div>
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCEz62e3PmjcghMTU1O0U6EQ?color=red&label=YOUTUBE&logo=YOUTUBE&logoColor=red&style=for-the-badge">
+ </div>
 
- <div align="center"><img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"></div> <h3 align='center'> Tutorial </h3>
+ <br>
+<div align="center"> <h3> Tutorial </h3>
 
  <h3 align='center'> Tutorial has been uploaded on YouTube </h3> 
 
