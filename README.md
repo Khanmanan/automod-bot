@@ -1,3 +1,6 @@
+<h1 align='center'> UPDATES INFO 🔕 </h1>
+<p> This bot will no longer receive updates because im not using dc so much :) and also i don't get any donations from these project so I can't keep working on. I'm belong from middle class fame so I need to work every day to get some money +_+ also sorry' for my bad grammar 🙂 keep supporting I'm back soon </p> 
+
 <h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js 
  Made by tag:- cw Khan#6496 
 Id 682981714523586606 </h1> 
