@@ -1,9 +1,9 @@
 
 <h2 align='center'> Thanks to all users and server for help to make a bot </h2>
 
- [Dark studio](https://discord.gg/devs)
+ [Mocy Development](https://support.mocy.ml/)
 
-[FirezTheGreat](https://github.com/FirezTheGreat)
+[JohnDavid](https://github.com/MrrVit665)
 
 
 
