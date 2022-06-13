@@ -1,0 +1,29 @@
+04:57:42.419 DEBUG No available nodes! 
+06:11:49.786 ERROR Cannot send an empty message
+{"name":"DiscordAPIError","message":"Cannot send an empty message","method":"post","path":"/channels/946096152502214694/messages","code":50006,"httpStatus":400,"requestData":{"json":{"tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"982527076408107088","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async Welcome.executeCommand (/home/container/src/structures/Command.js:160:7) 
+06:12:28.591 ERROR Cannot send an empty message
+{"name":"DiscordAPIError","message":"Cannot send an empty message","method":"post","path":"/channels/946096152502214694/messages","code":50006,"httpStatus":400,"requestData":{"json":{"tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"982527237469388820","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async Welcome.executeCommand (/home/container/src/structures/Command.js:160:7) 
+10:21:52.796 INFO  Guild Joined: 3🅰🆂🅷🅴🅺's server Members: 14 
+14:23:53.224 ERROR The reply to this interaction has not been sent or deferred.
+{}
+Error [INTERACTION_NOT_REPLIED]: The reply to this interaction has not been sent or deferred.
+    at CommandInteraction.followUp (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:165:64)
+    at AnimalCommand.executeInteraction (/home/container/src/structures/Command.js:227:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:17:18) 
+

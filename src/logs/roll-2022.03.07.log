@@ -1,0 +1,76 @@
+18:46:23.122 INFO  Loading commands... 
+18:46:23.698 DEBUG Skipping slash command avatar. Disabled! 
+18:46:23.723 DEBUG Skipping slash command botinvite. Disabled! 
+18:46:23.744 DEBUG Skipping slash command botstats. Disabled! 
+18:46:23.756 DEBUG Skipping slash command channelinfo. Disabled! 
+18:46:23.767 DEBUG Skipping slash command emojiinfo. Disabled! 
+18:46:23.789 DEBUG Skipping slash command guildinfo. Disabled! 
+18:46:23.864 DEBUG Skipping command bot. Disabled! 
+18:46:23.869 DEBUG Skipping command info. Disabled! 
+18:46:23.870 DEBUG Skipping slash command uptime. Disabled! 
+18:46:23.880 DEBUG Skipping slash command userinfo. Disabled! 
+18:46:23.954 DEBUG Skipping slash command deafen. Disabled! 
+18:46:23.971 DEBUG Skipping slash command disconnect. Disabled! 
+18:46:23.977 DEBUG Skipping slash command move. Disabled! 
+18:46:24.002 DEBUG Skipping slash command purge. Disabled! 
+18:46:24.007 DEBUG Skipping slash command purgeattach. Disabled! 
+18:46:24.012 DEBUG Skipping slash command purgebots. Disabled! 
+18:46:24.016 DEBUG Skipping slash command purgelinks. Disabled! 
+18:46:24.017 DEBUG Skipping slash command purgetoken. Disabled! 
+18:46:24.022 DEBUG Skipping slash command purgeuser. Disabled! 
+18:46:24.036 DEBUG Skipping command purge. Disabled! 
+18:46:24.042 DEBUG Skipping command voice. Disabled! 
+18:46:24.066 DEBUG Skipping slash command undeafen. Disabled! 
+18:46:24.079 DEBUG Skipping slash command vmute. Disabled! 
+18:46:24.092 DEBUG Skipping slash command vunmute. Disabled! 
+18:46:24.363 INFO  Loaded 94 commands 
+18:46:24.363 INFO  Loaded 78 slash commands 
+18:46:24.363 INFO  Loading contexts... 
+18:46:24.367 INFO  Loaded 2 USER contexts 
+18:46:24.367 INFO  Loaded 0 MESSAGE contexts 
+18:46:24.368 INFO  Loading events... 
+18:46:24.611 INFO  Loaded 22 events. Success (22) Failed (0) 
+18:46:25.222 INFO  VersionCheck: Your discord bot is up to date 
+18:46:25.231 INFO  Validating config.js and environment variables 
+18:46:25.231 INFO  Connecting to MongoDb... 
+18:46:27.140 INFO  Mongoose: Database connection established 
+23:29:14.604 INFO  Loading commands... 
+23:29:15.100 DEBUG Skipping slash command avatar. Disabled! 
+23:29:15.113 DEBUG Skipping slash command botinvite. Disabled! 
+23:29:15.138 DEBUG Skipping slash command botstats. Disabled! 
+23:29:15.146 DEBUG Skipping slash command channelinfo. Disabled! 
+23:29:15.154 DEBUG Skipping slash command emojiinfo. Disabled! 
+23:29:15.156 DEBUG Skipping slash command guildinfo. Disabled! 
+23:29:15.183 DEBUG Skipping command bot. Disabled! 
+23:29:15.185 DEBUG Skipping command info. Disabled! 
+23:29:15.191 DEBUG Skipping slash command uptime. Disabled! 
+23:29:15.192 DEBUG Skipping slash command userinfo. Disabled! 
+23:29:15.233 DEBUG Skipping slash command deafen. Disabled! 
+23:29:15.236 DEBUG Skipping slash command disconnect. Disabled! 
+23:29:15.242 DEBUG Skipping slash command move. Disabled! 
+23:29:15.243 DEBUG Skipping slash command purge. Disabled! 
+23:29:15.257 DEBUG Skipping slash command purgeattach. Disabled! 
+23:29:15.258 DEBUG Skipping slash command purgebots. Disabled! 
+23:29:15.259 DEBUG Skipping slash command purgelinks. Disabled! 
+23:29:15.264 DEBUG Skipping slash command purgetoken. Disabled! 
+23:29:15.266 DEBUG Skipping slash command purgeuser. Disabled! 
+23:29:15.274 DEBUG Skipping command purge. Disabled! 
+23:29:15.278 DEBUG Skipping command voice. Disabled! 
+23:29:15.287 DEBUG Skipping slash command undeafen. Disabled! 
+23:29:15.292 DEBUG Skipping slash command vmute. Disabled! 
+23:29:15.292 DEBUG Skipping slash command vunmute. Disabled! 
+23:29:15.438 INFO  Loaded 94 commands 
+23:29:15.438 INFO  Loaded 78 slash commands 
+23:29:15.441 INFO  Loading contexts... 
+23:29:15.450 INFO  Loaded 2 USER contexts 
+23:29:15.450 INFO  Loaded 0 MESSAGE contexts 
+23:29:15.451 INFO  Loading events... 
+23:29:15.656 INFO  Loaded 22 events. Success (22) Failed (0) 
+23:29:16.270 INFO  VersionCheck: Your discord bot is up to date 
+23:29:16.281 INFO  Validating config.js and environment variables 
+23:29:16.285 INFO  Connecting to MongoDb... 
+23:29:18.547 INFO  Mongoose: Database connection established 
+23:29:21.714 INFO  Logged in as Mocy#5428! (936627481442672710) 
+23:29:21.725 INFO  Initializing music manager 
+23:29:22.870 INFO  Successfully registered slash commands 
+23:29:22.976 INFO  Node "lavalink-repl.parasop.repl.co" connected 

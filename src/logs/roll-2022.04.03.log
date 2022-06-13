@@ -1,0 +1,41 @@
+07:34:15.892 INFO  Loading commands... 
+07:34:16.142 DEBUG Skipping slash command avatar. Disabled! 
+07:34:16.144 DEBUG Skipping slash command botinvite. Disabled! 
+07:34:16.162 DEBUG Skipping slash command botstats. Disabled! 
+07:34:16.166 DEBUG Skipping slash command channelinfo. Disabled! 
+07:34:16.170 DEBUG Skipping slash command emojiinfo. Disabled! 
+07:34:16.176 DEBUG Skipping slash command guildinfo. Disabled! 
+07:34:16.196 DEBUG Skipping command bot. Disabled! 
+07:34:16.200 DEBUG Skipping command info. Disabled! 
+07:34:16.203 DEBUG Skipping slash command uptime. Disabled! 
+07:34:16.204 DEBUG Skipping slash command userinfo. Disabled! 
+07:34:16.303 DEBUG Skipping slash command deafen. Disabled! 
+07:34:16.304 DEBUG Skipping slash command disconnect. Disabled! 
+07:34:16.306 DEBUG Skipping slash command move. Disabled! 
+07:34:16.321 DEBUG Skipping slash command purge. Disabled! 
+07:34:16.326 DEBUG Skipping slash command purgeattach. Disabled! 
+07:34:16.331 DEBUG Skipping slash command purgebots. Disabled! 
+07:34:16.337 DEBUG Skipping slash command purgelinks. Disabled! 
+07:34:16.349 DEBUG Skipping slash command purgetoken. Disabled! 
+07:34:16.352 DEBUG Skipping slash command purgeuser. Disabled! 
+07:34:16.361 DEBUG Skipping command purge. Disabled! 
+07:34:16.368 DEBUG Skipping command voice. Disabled! 
+07:34:16.375 DEBUG Skipping slash command undeafen. Disabled! 
+07:34:16.385 DEBUG Skipping slash command vmute. Disabled! 
+07:34:16.390 DEBUG Skipping slash command vunmute. Disabled! 
+07:34:16.783 INFO  Loaded 94 commands 
+07:34:16.783 INFO  Loaded 78 slash commands 
+07:34:16.786 INFO  Loading contexts... 
+07:34:16.801 INFO  Loaded 2 USER contexts 
+07:34:16.802 INFO  Loaded 0 MESSAGE contexts 
+07:34:16.802 INFO  Loading events... 
+07:34:17.352 INFO  Loaded 22 events. Success (22) Failed (0) 
+07:34:18.582 WARN  VersionCheck: 4.2.1 update is available 
+07:34:18.592 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+07:34:18.592 INFO  Validating config.js and environment variables 
+07:34:18.593 INFO  Connecting to MongoDb... 
+07:34:20.180 INFO  Mongoose: Database connection established 
+07:34:24.879 INFO  Logged in as Mocy#5428! (936627481442672710) 
+07:34:24.882 INFO  Initializing music manager 
+07:34:25.584 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+07:34:25.659 INFO  Successfully registered slash commands 

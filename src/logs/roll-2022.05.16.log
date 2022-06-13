@@ -1,0 +1,28 @@
+13:14:22.144 INFO  Guild Left: Emojilist Members: 18 
+17:19:37.264 WARN  Node "USA Link" is reconnecting 
+17:19:37.538 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+17:19:42.541 WARN  Node "USA Link" is reconnecting 
+17:19:42.906 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+17:19:47.910 WARN  Node "USA Link" is reconnecting 
+17:19:48.036 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+17:19:53.038 WARN  Node "USA Link" is reconnecting 
+17:19:53.161 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+17:19:58.163 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (/home/container/node_modules/erela.js/dist/structures/Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+

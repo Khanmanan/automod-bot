@@ -1,0 +1,46 @@
+07:14:54.287 INFO  Guild Left: ꧁𝒛𝒖𝒌𝒊꧂ Members: 26 
+07:57:41.210 INFO  Guild Joined: Black Wolf Team Members: 8 
+08:56:40.172 DEBUG No available nodes! 
+09:01:32.093 INFO  Loading commands... 
+09:01:32.354 DEBUG Skipping slash command avatar. Disabled! 
+09:01:32.357 DEBUG Skipping slash command botinvite. Disabled! 
+09:01:32.366 DEBUG Skipping slash command botstats. Disabled! 
+09:01:32.369 DEBUG Skipping slash command channelinfo. Disabled! 
+09:01:32.376 DEBUG Skipping slash command emojiinfo. Disabled! 
+09:01:32.385 DEBUG Skipping slash command guildinfo. Disabled! 
+09:01:32.401 DEBUG Skipping command bot. Disabled! 
+09:01:32.403 DEBUG Skipping command info. Disabled! 
+09:01:32.406 DEBUG Skipping slash command uptime. Disabled! 
+09:01:32.409 DEBUG Skipping slash command userinfo. Disabled! 
+09:01:32.451 DEBUG Skipping slash command deafen. Disabled! 
+09:01:32.454 DEBUG Skipping slash command disconnect. Disabled! 
+09:01:32.466 DEBUG Skipping slash command move. Disabled! 
+09:01:32.470 DEBUG Skipping slash command purge. Disabled! 
+09:01:32.487 DEBUG Skipping slash command purgeattach. Disabled! 
+09:01:32.489 DEBUG Skipping slash command purgebots. Disabled! 
+09:01:32.492 DEBUG Skipping slash command purgelinks. Disabled! 
+09:01:32.494 DEBUG Skipping slash command purgetoken. Disabled! 
+09:01:32.495 DEBUG Skipping slash command purgeuser. Disabled! 
+09:01:32.504 DEBUG Skipping command purge. Disabled! 
+09:01:32.508 DEBUG Skipping command voice. Disabled! 
+09:01:32.519 DEBUG Skipping slash command undeafen. Disabled! 
+09:01:32.524 DEBUG Skipping slash command vmute. Disabled! 
+09:01:32.529 DEBUG Skipping slash command vunmute. Disabled! 
+09:01:32.667 INFO  Loaded 94 commands 
+09:01:32.668 INFO  Loaded 78 slash commands 
+09:01:32.668 INFO  Loading contexts... 
+09:01:32.673 INFO  Loaded 2 USER contexts 
+09:01:32.674 INFO  Loaded 0 MESSAGE contexts 
+09:01:32.674 INFO  Loading events... 
+09:01:32.766 INFO  Loaded 22 events. Success (22) Failed (0) 
+09:01:32.997 WARN  VersionCheck: 4.2.3 update is available 
+09:01:32.998 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+09:01:33.000 INFO  Validating config.js and environment variables 
+09:01:33.000 INFO  Connecting to MongoDb... 
+09:01:34.363 INFO  Mongoose: Database connection established 
+09:01:46.387 INFO  Logged in as Automodv12 beta#8265! (744597377406599188) 
+09:01:46.388 INFO  Initializing music manager 
+09:01:46.675 INFO  Successfully registered slash commands 
+09:01:46.692 INFO  Node "USA Link" connected 
+09:47:40.920 INFO  Guild Left: Num1 Members: 5 
+
