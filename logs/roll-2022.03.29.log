@@ -1,0 +1,997 @@
+00:50:04.221 INFO  Loading commands... 
+00:50:04.622 DEBUG Skipping slash command avatar. Disabled! 
+00:50:04.644 DEBUG Skipping slash command botinvite. Disabled! 
+00:50:04.692 DEBUG Skipping slash command botstats. Disabled! 
+00:50:04.693 DEBUG Skipping slash command channelinfo. Disabled! 
+00:50:04.694 DEBUG Skipping slash command emojiinfo. Disabled! 
+00:50:04.719 DEBUG Skipping slash command guildinfo. Disabled! 
+00:50:04.726 DEBUG Skipping command bot. Disabled! 
+00:50:04.727 DEBUG Skipping command info. Disabled! 
+00:50:04.727 DEBUG Skipping slash command uptime. Disabled! 
+00:50:04.728 DEBUG Skipping slash command userinfo. Disabled! 
+00:50:04.747 DEBUG Skipping slash command deafen. Disabled! 
+00:50:04.748 DEBUG Skipping slash command disconnect. Disabled! 
+00:50:04.749 DEBUG Skipping slash command move. Disabled! 
+00:50:04.750 DEBUG Skipping slash command purge. Disabled! 
+00:50:04.751 DEBUG Skipping slash command purgeattach. Disabled! 
+00:50:04.751 DEBUG Skipping slash command purgebots. Disabled! 
+00:50:04.752 DEBUG Skipping slash command purgelinks. Disabled! 
+00:50:04.753 DEBUG Skipping slash command purgetoken. Disabled! 
+00:50:04.754 DEBUG Skipping slash command purgeuser. Disabled! 
+00:50:04.755 DEBUG Skipping command purge. Disabled! 
+00:50:04.760 DEBUG Skipping command voice. Disabled! 
+00:50:04.762 DEBUG Skipping slash command undeafen. Disabled! 
+00:50:04.763 DEBUG Skipping slash command vmute. Disabled! 
+00:50:04.764 DEBUG Skipping slash command vunmute. Disabled! 
+00:50:04.875 INFO  Loaded 94 commands 
+00:50:04.876 INFO  Loaded 78 slash commands 
+00:50:04.876 INFO  Loading contexts... 
+00:50:04.885 INFO  Loaded 2 USER contexts 
+00:50:04.885 INFO  Loaded 0 MESSAGE contexts 
+00:50:04.885 INFO  Loading events... 
+00:50:05.199 INFO  Loaded 22 events. Success (22) Failed (0) 
+00:50:05.793 WARN  VersionCheck: 4.2.1 update is available 
+00:50:05.793 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+00:50:05.798 INFO  Validating config.js and environment variables 
+00:50:05.798 INFO  Connecting to MongoDb... 
+00:50:07.594 INFO  Mongoose: Database connection established 
+00:50:12.963 INFO  Logged in as Mocy#5428! (936627481442672710) 
+00:50:12.964 INFO  Initializing music manager 
+00:50:13.288 INFO  Successfully registered slash commands 
+00:50:13.560 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+02:35:50.794 INFO  Loading commands... 
+02:35:51.070 DEBUG Skipping slash command avatar. Disabled! 
+02:35:51.071 DEBUG Skipping slash command botinvite. Disabled! 
+02:35:51.103 DEBUG Skipping slash command botstats. Disabled! 
+02:35:51.104 DEBUG Skipping slash command channelinfo. Disabled! 
+02:35:51.116 DEBUG Skipping slash command emojiinfo. Disabled! 
+02:35:51.118 DEBUG Skipping slash command guildinfo. Disabled! 
+02:35:51.157 DEBUG Skipping command bot. Disabled! 
+02:35:51.158 DEBUG Skipping command info. Disabled! 
+02:35:51.169 DEBUG Skipping slash command uptime. Disabled! 
+02:35:51.170 DEBUG Skipping slash command userinfo. Disabled! 
+02:35:51.207 DEBUG Skipping slash command deafen. Disabled! 
+02:35:51.219 DEBUG Skipping slash command disconnect. Disabled! 
+02:35:51.221 DEBUG Skipping slash command move. Disabled! 
+02:35:51.222 DEBUG Skipping slash command purge. Disabled! 
+02:35:51.223 DEBUG Skipping slash command purgeattach. Disabled! 
+02:35:51.228 DEBUG Skipping slash command purgebots. Disabled! 
+02:35:51.228 DEBUG Skipping slash command purgelinks. Disabled! 
+02:35:51.236 DEBUG Skipping slash command purgetoken. Disabled! 
+02:35:51.237 DEBUG Skipping slash command purgeuser. Disabled! 
+02:35:51.241 DEBUG Skipping command purge. Disabled! 
+02:35:51.242 DEBUG Skipping command voice. Disabled! 
+02:35:51.251 DEBUG Skipping slash command undeafen. Disabled! 
+02:35:51.255 DEBUG Skipping slash command vmute. Disabled! 
+02:35:51.256 DEBUG Skipping slash command vunmute. Disabled! 
+02:35:51.308 INFO  Loaded 94 commands 
+02:35:51.309 INFO  Loaded 78 slash commands 
+02:35:51.309 INFO  Loading contexts... 
+02:35:51.319 INFO  Loaded 2 USER contexts 
+02:35:51.320 INFO  Loaded 0 MESSAGE contexts 
+02:35:51.320 INFO  Loading events... 
+02:35:51.630 INFO  Loaded 22 events. Success (22) Failed (0) 
+02:35:52.241 WARN  VersionCheck: 4.2.1 update is available 
+02:35:52.241 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+02:35:52.242 INFO  Validating config.js and environment variables 
+02:35:52.246 INFO  Connecting to MongoDb... 
+02:35:53.731 INFO  Mongoose: Database connection established 
+15:43:08.507 INFO  Loading commands... 
+15:43:08.582 ERROR Failed to load farewell.js Reason: Unexpected token '}' 
+15:43:08.584 ERROR Failed to load welcome.js Reason: Unexpected token '}' 
+15:43:08.672 DEBUG Skipping slash command avatar. Disabled! 
+15:43:08.674 DEBUG Skipping slash command botinvite. Disabled! 
+15:43:08.676 DEBUG Skipping slash command botstats. Disabled! 
+15:43:08.678 DEBUG Skipping slash command channelinfo. Disabled! 
+15:43:08.682 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:43:08.683 DEBUG Skipping slash command guildinfo. Disabled! 
+15:43:08.689 DEBUG Skipping command bot. Disabled! 
+15:43:08.690 DEBUG Skipping command info. Disabled! 
+15:43:08.690 DEBUG Skipping slash command uptime. Disabled! 
+15:43:08.691 DEBUG Skipping slash command userinfo. Disabled! 
+15:43:08.699 DEBUG Skipping slash command deafen. Disabled! 
+15:43:08.700 DEBUG Skipping slash command disconnect. Disabled! 
+15:43:08.701 DEBUG Skipping slash command move. Disabled! 
+15:43:08.702 DEBUG Skipping slash command purge. Disabled! 
+15:43:08.703 DEBUG Skipping slash command purgeattach. Disabled! 
+15:43:08.703 DEBUG Skipping slash command purgebots. Disabled! 
+15:43:08.704 DEBUG Skipping slash command purgelinks. Disabled! 
+15:43:08.704 DEBUG Skipping slash command purgetoken. Disabled! 
+15:43:08.705 DEBUG Skipping slash command purgeuser. Disabled! 
+15:43:08.706 DEBUG Skipping command purge. Disabled! 
+15:43:08.707 DEBUG Skipping command voice. Disabled! 
+15:43:08.708 DEBUG Skipping slash command undeafen. Disabled! 
+15:43:08.709 DEBUG Skipping slash command vmute. Disabled! 
+15:43:08.710 DEBUG Skipping slash command vunmute. Disabled! 
+15:43:08.787 INFO  Loaded 92 commands 
+15:43:08.788 INFO  Loaded 76 slash commands 
+15:43:08.788 INFO  Loading contexts... 
+15:43:08.789 INFO  Loaded 2 USER contexts 
+15:43:08.790 INFO  Loaded 0 MESSAGE contexts 
+15:43:08.790 INFO  Loading events... 
+15:43:08.797 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberAdd.js:1:44) 
+15:43:08.798 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberRemove.js:1:44) 
+15:43:08.799 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/message/messageCreate.js:1:39) 
+15:43:08.803 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionAdd.js:1:29) 
+15:43:08.805 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionRemove.js:1:29) 
+15:43:08.806 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/ready.js:1:43) 
+15:43:08.887 INFO  Loaded 22 events. Success (16) Failed (6) 
+15:43:09.261 WARN  VersionCheck: 4.2.1 update is available 
+15:43:09.261 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+15:43:09.261 INFO  Validating config.js and environment variables 
+15:43:09.261 INFO  Connecting to MongoDb... 
+15:43:10.804 INFO  Mongoose: Database connection established 
+15:46:38.972 INFO  Loading commands... 
+15:46:38.994 ERROR Failed to load farewell.js Reason: Unexpected token '}' 
+15:46:38.998 ERROR Failed to load welcome.js Reason: Unexpected token '}' 
+15:46:39.084 DEBUG Skipping slash command avatar. Disabled! 
+15:46:39.085 DEBUG Skipping slash command botinvite. Disabled! 
+15:46:39.087 DEBUG Skipping slash command botstats. Disabled! 
+15:46:39.088 DEBUG Skipping slash command channelinfo. Disabled! 
+15:46:39.089 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:46:39.090 DEBUG Skipping slash command guildinfo. Disabled! 
+15:46:39.097 DEBUG Skipping command bot. Disabled! 
+15:46:39.098 DEBUG Skipping command info. Disabled! 
+15:46:39.098 DEBUG Skipping slash command uptime. Disabled! 
+15:46:39.099 DEBUG Skipping slash command userinfo. Disabled! 
+15:46:39.108 DEBUG Skipping slash command deafen. Disabled! 
+15:46:39.109 DEBUG Skipping slash command disconnect. Disabled! 
+15:46:39.169 DEBUG Skipping slash command move. Disabled! 
+15:46:39.170 DEBUG Skipping slash command purge. Disabled! 
+15:46:39.171 DEBUG Skipping slash command purgeattach. Disabled! 
+15:46:39.172 DEBUG Skipping slash command purgebots. Disabled! 
+15:46:39.172 DEBUG Skipping slash command purgelinks. Disabled! 
+15:46:39.173 DEBUG Skipping slash command purgetoken. Disabled! 
+15:46:39.174 DEBUG Skipping slash command purgeuser. Disabled! 
+15:46:39.176 DEBUG Skipping command purge. Disabled! 
+15:46:39.177 DEBUG Skipping command voice. Disabled! 
+15:46:39.179 DEBUG Skipping slash command undeafen. Disabled! 
+15:46:39.181 DEBUG Skipping slash command vmute. Disabled! 
+15:46:39.181 DEBUG Skipping slash command vunmute. Disabled! 
+15:46:39.211 INFO  Loaded 92 commands 
+15:46:39.211 INFO  Loaded 76 slash commands 
+15:46:39.211 INFO  Loading contexts... 
+15:46:39.213 INFO  Loaded 2 USER contexts 
+15:46:39.213 INFO  Loaded 0 MESSAGE contexts 
+15:46:39.214 INFO  Loading events... 
+15:46:39.270 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberAdd.js:1:44) 
+15:46:39.272 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberRemove.js:1:44) 
+15:46:39.274 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/message/messageCreate.js:1:39) 
+15:46:39.279 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionAdd.js:1:29) 
+15:46:39.280 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionRemove.js:1:29) 
+15:46:39.282 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/ready.js:1:43) 
+15:46:39.307 INFO  Loaded 22 events. Success (16) Failed (6) 
+15:46:39.751 WARN  VersionCheck: 4.2.1 update is available 
+15:46:39.752 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+15:46:39.752 INFO  Validating config.js and environment variables 
+15:46:39.752 INFO  Connecting to MongoDb... 
+15:46:41.401 INFO  Mongoose: Database connection established 
+15:48:11.513 INFO  Loading commands... 
+15:48:11.596 ERROR Failed to load farewell.js Reason: Unexpected token '}' 
+15:48:11.599 ERROR Failed to load welcome.js Reason: Unexpected token '}' 
+15:48:11.678 DEBUG Skipping slash command avatar. Disabled! 
+15:48:11.679 DEBUG Skipping slash command botinvite. Disabled! 
+15:48:11.681 DEBUG Skipping slash command botstats. Disabled! 
+15:48:11.681 DEBUG Skipping slash command channelinfo. Disabled! 
+15:48:11.682 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:48:11.683 DEBUG Skipping slash command guildinfo. Disabled! 
+15:48:11.692 DEBUG Skipping command bot. Disabled! 
+15:48:11.692 DEBUG Skipping command info. Disabled! 
+15:48:11.693 DEBUG Skipping slash command uptime. Disabled! 
+15:48:11.694 DEBUG Skipping slash command userinfo. Disabled! 
+15:48:11.706 DEBUG Skipping slash command deafen. Disabled! 
+15:48:11.707 DEBUG Skipping slash command disconnect. Disabled! 
+15:48:11.709 DEBUG Skipping slash command move. Disabled! 
+15:48:11.710 DEBUG Skipping slash command purge. Disabled! 
+15:48:11.711 DEBUG Skipping slash command purgeattach. Disabled! 
+15:48:11.712 DEBUG Skipping slash command purgebots. Disabled! 
+15:48:11.712 DEBUG Skipping slash command purgelinks. Disabled! 
+15:48:11.713 DEBUG Skipping slash command purgetoken. Disabled! 
+15:48:11.714 DEBUG Skipping slash command purgeuser. Disabled! 
+15:48:11.770 DEBUG Skipping command purge. Disabled! 
+15:48:11.771 DEBUG Skipping command voice. Disabled! 
+15:48:11.773 DEBUG Skipping slash command undeafen. Disabled! 
+15:48:11.774 DEBUG Skipping slash command vmute. Disabled! 
+15:48:11.775 DEBUG Skipping slash command vunmute. Disabled! 
+15:48:11.796 INFO  Loaded 92 commands 
+15:48:11.797 INFO  Loaded 76 slash commands 
+15:48:11.797 INFO  Loading contexts... 
+15:48:11.804 INFO  Loaded 2 USER contexts 
+15:48:11.804 INFO  Loaded 0 MESSAGE contexts 
+15:48:11.805 INFO  Loading events... 
+15:48:11.876 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberAdd.js:1:44) 
+15:48:11.878 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberRemove.js:1:44) 
+15:48:11.879 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/message/messageCreate.js:1:39) 
+15:48:11.883 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionAdd.js:1:29) 
+15:48:11.885 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionRemove.js:1:29) 
+15:48:11.886 ERROR Unexpected token '}'
+{}
+/home/runner/discord-js-bot/src/handlers/greeting.js:74
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/ready.js:1:43) 
+15:48:11.913 INFO  Loaded 22 events. Success (16) Failed (6) 
+15:48:12.257 WARN  VersionCheck: 4.2.1 update is available 
+15:48:12.257 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+15:48:12.257 INFO  Validating config.js and environment variables 
+15:48:12.257 INFO  Connecting to MongoDb... 
+15:48:13.733 INFO  Mongoose: Database connection established 
+15:49:06.780 INFO  Loading commands... 
+15:49:06.883 ERROR Failed to load farewell.js Reason: config is not defined 
+15:49:06.887 ERROR Failed to load welcome.js Reason: config is not defined 
+15:49:07.074 DEBUG Skipping slash command avatar. Disabled! 
+15:49:07.081 DEBUG Skipping slash command botinvite. Disabled! 
+15:49:07.083 DEBUG Skipping slash command botstats. Disabled! 
+15:49:07.085 DEBUG Skipping slash command channelinfo. Disabled! 
+15:49:07.086 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:49:07.087 DEBUG Skipping slash command guildinfo. Disabled! 
+15:49:07.168 DEBUG Skipping command bot. Disabled! 
+15:49:07.170 DEBUG Skipping command info. Disabled! 
+15:49:07.171 DEBUG Skipping slash command uptime. Disabled! 
+15:49:07.172 DEBUG Skipping slash command userinfo. Disabled! 
+15:49:07.186 DEBUG Skipping slash command deafen. Disabled! 
+15:49:07.187 DEBUG Skipping slash command disconnect. Disabled! 
+15:49:07.190 DEBUG Skipping slash command move. Disabled! 
+15:49:07.191 DEBUG Skipping slash command purge. Disabled! 
+15:49:07.192 DEBUG Skipping slash command purgeattach. Disabled! 
+15:49:07.192 DEBUG Skipping slash command purgebots. Disabled! 
+15:49:07.193 DEBUG Skipping slash command purgelinks. Disabled! 
+15:49:07.268 DEBUG Skipping slash command purgetoken. Disabled! 
+15:49:07.269 DEBUG Skipping slash command purgeuser. Disabled! 
+15:49:07.272 DEBUG Skipping command purge. Disabled! 
+15:49:07.273 DEBUG Skipping command voice. Disabled! 
+15:49:07.276 DEBUG Skipping slash command undeafen. Disabled! 
+15:49:07.277 DEBUG Skipping slash command vmute. Disabled! 
+15:49:07.278 DEBUG Skipping slash command vunmute. Disabled! 
+15:49:07.469 INFO  Loaded 92 commands 
+15:49:07.469 INFO  Loaded 76 slash commands 
+15:49:07.470 INFO  Loading contexts... 
+15:49:07.473 INFO  Loaded 2 USER contexts 
+15:49:07.473 INFO  Loaded 0 MESSAGE contexts 
+15:49:07.474 INFO  Loading events... 
+15:49:07.485 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberAdd.js:1:44)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:07.487 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberRemove.js:1:44)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:07.489 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/message/messageCreate.js:1:39)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:07.494 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionAdd.js:1:29)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:07.496 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionRemove.js:1:29)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:07.498 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/ready.js:1:43)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:07.674 INFO  Loaded 22 events. Success (16) Failed (6) 
+15:49:08.091 WARN  VersionCheck: 4.2.1 update is available 
+15:49:08.091 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+15:49:08.091 INFO  Validating config.js and environment variables 
+15:49:08.091 INFO  Connecting to MongoDb... 
+15:49:09.979 INFO  Mongoose: Database connection established 
+15:49:54.801 INFO  Loading commands... 
+15:49:54.872 ERROR Failed to load farewell.js Reason: config is not defined 
+15:49:54.875 ERROR Failed to load welcome.js Reason: config is not defined 
+15:49:54.969 DEBUG Skipping slash command avatar. Disabled! 
+15:49:54.971 DEBUG Skipping slash command botinvite. Disabled! 
+15:49:54.973 DEBUG Skipping slash command botstats. Disabled! 
+15:49:54.975 DEBUG Skipping slash command channelinfo. Disabled! 
+15:49:54.976 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:49:54.977 DEBUG Skipping slash command guildinfo. Disabled! 
+15:49:54.983 DEBUG Skipping command bot. Disabled! 
+15:49:54.984 DEBUG Skipping command info. Disabled! 
+15:49:54.985 DEBUG Skipping slash command uptime. Disabled! 
+15:49:54.986 DEBUG Skipping slash command userinfo. Disabled! 
+15:49:54.998 DEBUG Skipping slash command deafen. Disabled! 
+15:49:54.999 DEBUG Skipping slash command disconnect. Disabled! 
+15:49:55.000 DEBUG Skipping slash command move. Disabled! 
+15:49:55.002 DEBUG Skipping slash command purge. Disabled! 
+15:49:55.003 DEBUG Skipping slash command purgeattach. Disabled! 
+15:49:55.003 DEBUG Skipping slash command purgebots. Disabled! 
+15:49:55.004 DEBUG Skipping slash command purgelinks. Disabled! 
+15:49:55.005 DEBUG Skipping slash command purgetoken. Disabled! 
+15:49:55.005 DEBUG Skipping slash command purgeuser. Disabled! 
+15:49:55.008 DEBUG Skipping command purge. Disabled! 
+15:49:55.009 DEBUG Skipping command voice. Disabled! 
+15:49:55.012 DEBUG Skipping slash command undeafen. Disabled! 
+15:49:55.013 DEBUG Skipping slash command vmute. Disabled! 
+15:49:55.013 DEBUG Skipping slash command vunmute. Disabled! 
+15:49:55.100 INFO  Loaded 92 commands 
+15:49:55.100 INFO  Loaded 76 slash commands 
+15:49:55.100 INFO  Loading contexts... 
+15:49:55.102 INFO  Loaded 2 USER contexts 
+15:49:55.102 INFO  Loaded 0 MESSAGE contexts 
+15:49:55.103 INFO  Loading events... 
+15:49:55.110 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberAdd.js:1:44)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:55.112 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/member/guildMemberRemove.js:1:44)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:55.168 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/message/messageCreate.js:1:39)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:55.172 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionAdd.js:1:29)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:55.173 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/reaction/messageReactionRemove.js:1:29)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:55.175 ERROR config is not defined
+{}
+ReferenceError: config is not defined
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/greeting.js:65:3)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/handlers/index.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/runner/discord-js-bot/src/events/ready.js:1:43)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) 
+15:49:55.194 INFO  Loaded 22 events. Success (16) Failed (6) 
+15:49:55.538 WARN  VersionCheck: 4.2.1 update is available 
+15:49:55.538 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+15:49:55.539 INFO  Validating config.js and environment variables 
+15:49:55.539 INFO  Connecting to MongoDb... 
+15:49:56.986 INFO  Mongoose: Database connection established 
+15:53:15.172 INFO  Loading commands... 
+15:53:15.296 DEBUG Skipping slash command avatar. Disabled! 
+15:53:15.297 DEBUG Skipping slash command botinvite. Disabled! 
+15:53:15.299 DEBUG Skipping slash command botstats. Disabled! 
+15:53:15.300 DEBUG Skipping slash command channelinfo. Disabled! 
+15:53:15.301 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:53:15.302 DEBUG Skipping slash command guildinfo. Disabled! 
+15:53:15.307 DEBUG Skipping command bot. Disabled! 
+15:53:15.308 DEBUG Skipping command info. Disabled! 
+15:53:15.309 DEBUG Skipping slash command uptime. Disabled! 
+15:53:15.309 DEBUG Skipping slash command userinfo. Disabled! 
+15:53:15.320 DEBUG Skipping slash command deafen. Disabled! 
+15:53:15.321 DEBUG Skipping slash command disconnect. Disabled! 
+15:53:15.322 DEBUG Skipping slash command move. Disabled! 
+15:53:15.323 DEBUG Skipping slash command purge. Disabled! 
+15:53:15.324 DEBUG Skipping slash command purgeattach. Disabled! 
+15:53:15.324 DEBUG Skipping slash command purgebots. Disabled! 
+15:53:15.325 DEBUG Skipping slash command purgelinks. Disabled! 
+15:53:15.325 DEBUG Skipping slash command purgetoken. Disabled! 
+15:53:15.326 DEBUG Skipping slash command purgeuser. Disabled! 
+15:53:15.327 DEBUG Skipping command purge. Disabled! 
+15:53:15.371 DEBUG Skipping command voice. Disabled! 
+15:53:15.373 DEBUG Skipping slash command undeafen. Disabled! 
+15:53:15.375 DEBUG Skipping slash command vmute. Disabled! 
+15:53:15.376 DEBUG Skipping slash command vunmute. Disabled! 
+15:53:15.397 INFO  Loaded 94 commands 
+15:53:15.397 INFO  Loaded 78 slash commands 
+15:53:15.398 INFO  Loading contexts... 
+15:53:15.400 INFO  Loaded 2 USER contexts 
+15:53:15.400 INFO  Loaded 0 MESSAGE contexts 
+15:53:15.400 INFO  Loading events... 
+15:53:15.499 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:53:15.833 WARN  VersionCheck: 4.2.1 update is available 
+15:53:15.834 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+15:53:15.834 INFO  Validating config.js and environment variables 
+15:53:15.834 INFO  Connecting to MongoDb... 
+15:53:17.388 INFO  Mongoose: Database connection established 
+15:53:20.212 INFO  Logged in as Mocy#5428! (936627481442672710) 
+15:53:20.213 INFO  Initializing music manager 
+15:53:20.501 INFO  Successfully registered slash commands 
+15:53:20.601 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+18:15:10.458 INFO  Loading commands... 
+18:15:11.325 DEBUG Skipping slash command avatar. Disabled! 
+18:15:11.332 DEBUG Skipping slash command botinvite. Disabled! 
+18:15:11.355 DEBUG Skipping slash command botstats. Disabled! 
+18:15:11.362 DEBUG Skipping slash command channelinfo. Disabled! 
+18:15:11.371 DEBUG Skipping slash command emojiinfo. Disabled! 
+18:15:11.442 DEBUG Skipping slash command guildinfo. Disabled! 
+18:15:11.546 DEBUG Skipping command bot. Disabled! 
+18:15:11.573 DEBUG Skipping command info. Disabled! 
+18:15:11.580 DEBUG Skipping slash command uptime. Disabled! 
+18:15:11.593 DEBUG Skipping slash command userinfo. Disabled! 
+18:15:11.754 DEBUG Skipping slash command deafen. Disabled! 
+18:15:11.781 DEBUG Skipping slash command disconnect. Disabled! 
+18:15:11.797 DEBUG Skipping slash command move. Disabled! 
+18:15:11.853 DEBUG Skipping slash command purge. Disabled! 
+18:15:11.875 DEBUG Skipping slash command purgeattach. Disabled! 
+18:15:11.876 DEBUG Skipping slash command purgebots. Disabled! 
+18:15:11.905 DEBUG Skipping slash command purgelinks. Disabled! 
+18:15:11.941 DEBUG Skipping slash command purgetoken. Disabled! 
+18:15:11.942 DEBUG Skipping slash command purgeuser. Disabled! 
+18:15:12.041 DEBUG Skipping command purge. Disabled! 
+18:15:12.059 DEBUG Skipping command voice. Disabled! 
+18:15:12.096 DEBUG Skipping slash command undeafen. Disabled! 
+18:15:12.097 DEBUG Skipping slash command vmute. Disabled! 
+18:15:12.140 DEBUG Skipping slash command vunmute. Disabled! 
+18:15:12.566 INFO  Loaded 94 commands 
+18:15:12.571 INFO  Loaded 78 slash commands 
+18:15:12.578 INFO  Loading contexts... 
+18:15:12.601 INFO  Loaded 2 USER contexts 
+18:15:12.601 INFO  Loaded 0 MESSAGE contexts 
+18:15:12.601 INFO  Loading events... 
+18:15:13.554 INFO  Loaded 22 events. Success (22) Failed (0) 
+18:15:14.519 WARN  VersionCheck: 4.2.1 update is available 
+18:15:14.520 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+18:15:14.524 INFO  Validating config.js and environment variables 
+18:15:14.528 INFO  Connecting to MongoDb... 
+18:15:16.421 INFO  Mongoose: Database connection established 
+18:15:27.310 INFO  Logged in as Mocy#5428! (936627481442672710) 
+18:15:27.316 INFO  Initializing music manager 
+18:15:30.417 INFO  Successfully registered slash commands 
+18:15:30.589 INFO  Node "lavalink-repl.parasop.repl.co" connected 

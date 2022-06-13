@@ -1,0 +1,47 @@
+01:02:26.063 INFO  Guild Joined: berry's Members: 9 
+04:24:15.487 INFO  Guild Joined: IUNGO Playground Members: 3075 
+05:40:00.300 INFO  Guild Left: IUNGO Playground Members: 3075 
+07:45:26.366 ERROR Interaction has already been acknowledged.
+{"name":"DiscordAPIError","message":"Interaction has already been acknowledged.","method":"post","path":"/interactions/984724961535090708/aW50ZXJhY3Rpb246OTg0NzI0OTYxNTM1MDkwNzA4OlcwME94NGwwYnN5WjBDMVNOTGh4UDE1eVdtZUlZamhoQTRlMHNxWkViWmtQaERXeVJDVUwzV3FSd1V3dzQ5aWFoS2xVWm5ZYmRGNjJVZk42a3BWdkcwV1lRUmdlSzNJNzd4bXBHbFMzckFYOGpvQkJzNk80OW5jWUR5Q05XdlNB/callback","code":40060,"httpStatus":400,"requestData":{"json":{"type":6},"files":[]}}
+DiscordAPIError: Interaction has already been acknowledged.
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async ButtonInteraction.deferUpdate (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:181:5)
+    at async InteractionCollector.<anonymous> (/home/container/src/commands/utility/help.js:171:5) 
+07:47:54.528 ERROR The reply to this interaction has already been sent or deferred.
+{}
+Error [INTERACTION_ALREADY_REPLIED]: The reply to this interaction has already been sent or deferred.
+    at ButtonInteraction.deferUpdate (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:180:46)
+    at InteractionCollector.<anonymous> (/home/container/src/commands/fun/meme.js:107:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+07:52:11.965 ERROR Invalid Form Body
+embeds[0].fields[3].value: Must be 1024 or fewer in length.
+{"name":"DiscordAPIError","message":"Invalid Form Body\nembeds[0].fields[3].value: Must be 1024 or fewer in length.","method":"post","path":"/webhooks/744597377406599188/aW50ZXJhY3Rpb246OTg0NzI2NjYwMjU3NTc0OTQyOkV3bkRjdWN2UjFxY1ZMZWJQcWZUQjVjR0FkSjdpc0ZGZUY1WWg1MDFiOGNPZnhVbmpKNEN2OFR1aVN0UGd5TTF3RnlWZURCRDdYNkpISkxCSmpheVQ5UlJMcktxV1FUVlN3SmZWYzFiTTliMzdvTE5iSGdqVmRXMFN3c1JUcmEy?wait=true","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":"GUILD INFORMATION","type":"rich","description":"❯ **Id:** 787315610102530048\n❯ **Name:** </Cw khan>\n❯ **Owner:** </ Cw khan >#6174\n❯ **Region:** en-US\n\n","url":null,"timestamp":0,"color":428765,"fields":[{"name":"Server Members [15]","value":"```Members: 10\nBots: 5```","inline":true},{"name":"Online Stats [0]","value":"```Members: 0\nBots: 0```","inline":true},{"name":"Categories and channels [82]","value":"```Categories: 16 | Text: 48 | Voice: 12 | Thread: 0```","inline":false},{"name":"Roles [100]","value":"```js ping[2], HaileyBot[0], | Code Helper[1], BEAST[1], Rythm[0], Cw khan ( ping=mute)[1], |ROLE MANAGER[0], |hypesquadbravery[1], |hypesquadbalance[1], |Cw OFFICIAL[1], |SERVER CREATER[0], AXVin-Bot[0], Automod Premium[0], |Special members[0], |subscribe 😎[0], YouTube[0], | Giveaway manager[0], |botdeveloper[1], MEE6[0], Uptime bot[0], |Fun Bot[1], MODBOT[0], ZeroTwo[0], |discordstaff[1], |bughunterlevel1[1], CrimHish[1], ProBot ✨[1], |Partners[0], Aki[1], Vortex[0], |discordpartner[1], ■■□□□₂₀%[2], ■■■■□₆₀%[1], |MEMBER OF MEMBER[0], |Partner Ping[1], Automodbot premium[0], blue bot[0], Github ping[2], |earlysupporter[1], Arcane[0], GiveawayBot[0], ServerStats[0], Youtubers & devs[0], ■■■■■₁₀₀%[1], Watchbot[0], Better Emotes[0], Youtube ping[2], Security[0], Vectron[0], Asunna[0], Events ping[2], UnbelievaBoat[0], MYLO™[0], Coding hub[0], Cw khan[0], DS.ME[0], | OWNER[0], |BOT[3], |hypesquadbrilliance[1], YAGPDB.xyz[0], LuvBot[0], DSL[0], new role[0], |MUSIC[0], Nightbot[0], WidgetBot[0], muted and punished[0], Muted[0], ■□□□□₁₀%[3], Female[0], DSL[0], □□□□□₂%‎‎‎[5], |hypesquadevents[1], python[2], male[2], Automod v12 Beta[1], Blurplefied[1], |moderator[1], html[2], Prism[0], |developer's[10], Groovy[0], Gold Role[0], |bughunterlevel2[1], new role[0], Hydra[0], vectron[0], |Contributors[0], Dank Memer[0], OwO[0], Dyno[0], | LOGO MANAGER[0], carl-bot[0], |helper[1], Koya[0], EPIC RPG[0], ■■■□□₄₀%[1], Boosters[0], Giveway ping[2]```","inline":false},{"name":"Verification","value":"```LOW```","inline":true},{"name":"Boost Count","value":"```1```","inline":true},{"name":"Server Created [a year ago]","value":"```Saturday, 12th December 2020```","inline":false}],"thumbnail":{"url":"https://cdn.discordapp.com/icons/787315610102530048/e27e1489b1cedc69127293c050326b9b.webp"},"image":{},"author":null,"footer":null}]},"files":[]}}
+DiscordAPIError: Invalid Form Body
+embeds[0].fields[3].value: Must be 1024 or fewer in length.
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async InteractionWebhook.send (/home/container/node_modules/discord.js/src/structures/Webhook.js:195:15)
+    at async InfoCommand.interactionRun (/home/container/src/commands/information/slash-info.js:138:5)
+    at async InfoCommand.executeInteraction (/home/container/src/structures/Command.js:225:7)
+    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:17:18) 
+11:01:43.655 ERROR Request failed with status code 503
+{"message":"Request failed with status code 503","name":"Error","stack":"Error: Request failed with status code 503\n    at createError (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/adapters/http.js:244:11)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)","config":{"url":"https://accounts.spotify.com/api/token","method":"post","data":"grant_type=client_credentials","headers":{"Accept":"application/json, text/plain, */*","Content-Type":"application/x-www-form-urlencoded","Authorization":"Basic YmU4YjdiMmI4MGM1NDY0YmI4NWJiMzBiYjYzMmUyMzY6YmRiZmVhMjk0NDRjNDUxZDk1YzAzNTgxNDgwZTM0YWU=","User-Agent":"axios/0.20.0","Content-Length":29},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1}}
+Error: Request failed with status code 503
+    at createError (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/adapters/http.js:244:11)
+    at IncomingMessage.emit (node:events:539:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+16:18:51.229 INFO  Guild Left: All about me 🔥 Members: 3 
+18:11:36.646 INFO  Guild Joined: idiotic Household Members: 9 
+18:13:06.704 INFO  Guild Left: idiotic Household Members: 8 
+19:04:56.689 INFO  Guild Joined: Server uživatele valakyn Members: 3 
+19:21:55.200 INFO  Guild Left: Server uživatele valakyn Members: 2 
+

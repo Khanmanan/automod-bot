@@ -1,0 +1,285 @@
+05:53:01.199 INFO  Guild Left: La Ratonera Members: 47 
+11:30:49.509 INFO  Guild Joined: Dark-Eagles.de Community Members: 8 
+11:32:19.798 INFO  Guild Left: Dark-Eagles.de Community Members: 7 
+13:31:11.013 INFO  Loading commands... 
+13:31:11.172 DEBUG Skipping slash command avatar. Disabled! 
+13:31:11.178 DEBUG Skipping slash command botinvite. Disabled! 
+13:31:11.184 DEBUG Skipping slash command botstats. Disabled! 
+13:31:11.189 DEBUG Skipping slash command channelinfo. Disabled! 
+13:31:11.193 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:31:11.202 DEBUG Skipping slash command guildinfo. Disabled! 
+13:31:11.227 DEBUG Skipping command bot. Disabled! 
+13:31:11.229 DEBUG Skipping command info. Disabled! 
+13:31:11.236 DEBUG Skipping slash command uptime. Disabled! 
+13:31:11.238 DEBUG Skipping slash command userinfo. Disabled! 
+13:31:11.270 DEBUG Skipping slash command deafen. Disabled! 
+13:31:11.276 DEBUG Skipping slash command disconnect. Disabled! 
+13:31:11.280 DEBUG Skipping slash command move. Disabled! 
+13:31:11.284 DEBUG Skipping slash command purge. Disabled! 
+13:31:11.285 DEBUG Skipping slash command purgeattach. Disabled! 
+13:31:11.287 DEBUG Skipping slash command purgebots. Disabled! 
+13:31:11.290 DEBUG Skipping slash command purgelinks. Disabled! 
+13:31:11.292 DEBUG Skipping slash command purgetoken. Disabled! 
+13:31:11.293 DEBUG Skipping slash command purgeuser. Disabled! 
+13:31:11.305 DEBUG Skipping command purge. Disabled! 
+13:31:11.307 DEBUG Skipping command voice. Disabled! 
+13:31:11.315 DEBUG Skipping slash command undeafen. Disabled! 
+13:31:11.327 DEBUG Skipping slash command vmute. Disabled! 
+13:31:11.343 DEBUG Skipping slash command vunmute. Disabled! 
+13:31:11.450 INFO  Loaded 94 commands 
+13:31:11.450 INFO  Loaded 78 slash commands 
+13:31:11.451 INFO  Loading contexts... 
+13:31:11.457 INFO  Loaded 2 USER contexts 
+13:31:11.457 INFO  Loaded 0 MESSAGE contexts 
+13:31:11.464 INFO  Loading events... 
+13:31:11.593 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:31:11.843 WARN  VersionCheck: 4.2.3 update is available 
+13:31:11.843 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:31:11.844 INFO  Validating config.js and environment variables 
+13:31:11.844 INFO  Connecting to MongoDb... 
+13:31:13.150 INFO  Mongoose: Database connection established 
+13:37:30.151 INFO  Loading commands... 
+13:37:30.270 DEBUG Skipping slash command avatar. Disabled! 
+13:37:30.273 DEBUG Skipping slash command botinvite. Disabled! 
+13:37:30.277 DEBUG Skipping slash command botstats. Disabled! 
+13:37:30.280 DEBUG Skipping slash command channelinfo. Disabled! 
+13:37:30.283 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:37:30.286 DEBUG Skipping slash command guildinfo. Disabled! 
+13:37:30.303 DEBUG Skipping command bot. Disabled! 
+13:37:30.304 DEBUG Skipping command info. Disabled! 
+13:37:30.306 DEBUG Skipping slash command uptime. Disabled! 
+13:37:30.307 DEBUG Skipping slash command userinfo. Disabled! 
+13:37:30.328 DEBUG Skipping slash command deafen. Disabled! 
+13:37:30.330 DEBUG Skipping slash command disconnect. Disabled! 
+13:37:30.334 DEBUG Skipping slash command move. Disabled! 
+13:37:30.337 DEBUG Skipping slash command purge. Disabled! 
+13:37:30.339 DEBUG Skipping slash command purgeattach. Disabled! 
+13:37:30.342 DEBUG Skipping slash command purgebots. Disabled! 
+13:37:30.344 DEBUG Skipping slash command purgelinks. Disabled! 
+13:37:30.347 DEBUG Skipping slash command purgetoken. Disabled! 
+13:37:30.348 DEBUG Skipping slash command purgeuser. Disabled! 
+13:37:30.353 DEBUG Skipping command purge. Disabled! 
+13:37:30.355 DEBUG Skipping command voice. Disabled! 
+13:37:30.360 DEBUG Skipping slash command undeafen. Disabled! 
+13:37:30.364 DEBUG Skipping slash command vmute. Disabled! 
+13:37:30.368 DEBUG Skipping slash command vunmute. Disabled! 
+13:37:30.435 INFO  Loaded 94 commands 
+13:37:30.435 INFO  Loaded 78 slash commands 
+13:37:30.436 INFO  Loading contexts... 
+13:37:30.450 INFO  Loaded 2 USER contexts 
+13:37:30.450 INFO  Loaded 0 MESSAGE contexts 
+13:37:30.450 INFO  Loading events... 
+13:37:30.527 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:37:30.710 WARN  VersionCheck: 4.2.3 update is available 
+13:37:30.710 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:37:30.711 INFO  Validating config.js and environment variables 
+13:37:30.711 INFO  Connecting to MongoDb... 
+13:37:31.963 INFO  Mongoose: Database connection established 
+14:19:58.049 INFO  Loading commands... 
+14:19:58.268 DEBUG Skipping slash command avatar. Disabled! 
+14:19:58.274 DEBUG Skipping slash command botinvite. Disabled! 
+14:19:58.290 DEBUG Skipping slash command botstats. Disabled! 
+14:19:58.295 DEBUG Skipping slash command channelinfo. Disabled! 
+14:19:58.302 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:19:58.308 DEBUG Skipping slash command guildinfo. Disabled! 
+14:19:58.341 DEBUG Skipping command bot. Disabled! 
+14:19:58.344 DEBUG Skipping command info. Disabled! 
+14:19:58.350 DEBUG Skipping slash command uptime. Disabled! 
+14:19:58.354 DEBUG Skipping slash command userinfo. Disabled! 
+14:19:58.398 DEBUG Skipping slash command deafen. Disabled! 
+14:19:58.403 DEBUG Skipping slash command disconnect. Disabled! 
+14:19:58.416 DEBUG Skipping slash command move. Disabled! 
+14:19:58.421 DEBUG Skipping slash command purge. Disabled! 
+14:19:58.423 DEBUG Skipping slash command purgeattach. Disabled! 
+14:19:58.425 DEBUG Skipping slash command purgebots. Disabled! 
+14:19:58.426 DEBUG Skipping slash command purgelinks. Disabled! 
+14:19:58.427 DEBUG Skipping slash command purgetoken. Disabled! 
+14:19:58.429 DEBUG Skipping slash command purgeuser. Disabled! 
+14:19:58.440 DEBUG Skipping command purge. Disabled! 
+14:19:58.445 DEBUG Skipping command voice. Disabled! 
+14:19:58.450 DEBUG Skipping slash command undeafen. Disabled! 
+14:19:58.459 DEBUG Skipping slash command vmute. Disabled! 
+14:19:58.463 DEBUG Skipping slash command vunmute. Disabled! 
+14:19:58.621 INFO  Loaded 94 commands 
+14:19:58.621 INFO  Loaded 78 slash commands 
+14:19:58.622 INFO  Loading contexts... 
+14:19:58.631 INFO  Loaded 2 USER contexts 
+14:19:58.632 INFO  Loaded 0 MESSAGE contexts 
+14:19:58.633 INFO  Loading events... 
+14:19:58.754 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:19:59.011 WARN  VersionCheck: 4.2.3 update is available 
+14:19:59.012 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+14:19:59.012 INFO  Validating config.js and environment variables 
+14:19:59.013 INFO  Connecting to MongoDb... 
+14:20:00.372 INFO  Mongoose: Database connection established 
+14:56:33.434 INFO  Loading commands... 
+14:56:33.646 DEBUG Skipping slash command avatar. Disabled! 
+14:56:33.648 DEBUG Skipping slash command botinvite. Disabled! 
+14:56:33.663 DEBUG Skipping slash command botstats. Disabled! 
+14:56:33.669 DEBUG Skipping slash command channelinfo. Disabled! 
+14:56:33.672 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:56:33.675 DEBUG Skipping slash command guildinfo. Disabled! 
+14:56:33.687 DEBUG Skipping command bot. Disabled! 
+14:56:33.688 DEBUG Skipping command info. Disabled! 
+14:56:33.689 DEBUG Skipping slash command uptime. Disabled! 
+14:56:33.690 DEBUG Skipping slash command userinfo. Disabled! 
+14:56:33.764 DEBUG Skipping slash command deafen. Disabled! 
+14:56:33.825 DEBUG Skipping slash command disconnect. Disabled! 
+14:56:33.878 DEBUG Skipping slash command move. Disabled! 
+14:56:33.916 DEBUG Skipping slash command purge. Disabled! 
+14:56:33.924 DEBUG Skipping slash command purgeattach. Disabled! 
+14:56:33.960 DEBUG Skipping slash command purgebots. Disabled! 
+14:56:33.975 DEBUG Skipping slash command purgelinks. Disabled! 
+14:56:34.009 DEBUG Skipping slash command purgetoken. Disabled! 
+14:56:34.062 DEBUG Skipping slash command purgeuser. Disabled! 
+14:56:34.137 DEBUG Skipping command purge. Disabled! 
+14:56:34.150 DEBUG Skipping command voice. Disabled! 
+14:56:34.179 DEBUG Skipping slash command undeafen. Disabled! 
+14:56:34.240 DEBUG Skipping slash command vmute. Disabled! 
+14:56:34.258 DEBUG Skipping slash command vunmute. Disabled! 
+14:56:34.579 INFO  Loaded 94 commands 
+14:56:34.579 INFO  Loaded 78 slash commands 
+14:56:34.579 INFO  Loading contexts... 
+14:56:34.622 INFO  Loaded 2 USER contexts 
+14:56:34.622 INFO  Loaded 0 MESSAGE contexts 
+14:56:34.622 INFO  Loading events... 
+14:56:34.929 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:56:35.117 WARN  VersionCheck: 4.2.3 update is available 
+14:56:35.117 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+14:56:35.117 INFO  Validating config.js and environment variables 
+14:56:35.118 INFO  Connecting to MongoDb... 
+14:56:36.573 INFO  Mongoose: Database connection established 
+15:17:44.203 INFO  Logged in as Automodv12 beta#8265! (744597377406599188) 
+15:17:44.204 INFO  Initializing music manager 
+15:17:44.543 INFO  Successfully registered slash commands 
+15:17:44.636 INFO  Node "USA Link" connected 
+16:17:56.657 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/934416819190648852/messages","code":50035,"httpStatus":400,"requestData":{"json":{"content":"🏓 Pong : `33ms`","tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985203991308804137","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async PingCommand.messageRun (/home/container/src/commands/information/ping.js:26:5)
+    at async PingCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+18:18:38.616 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/934416819190648852/messages","code":50035,"httpStatus":400,"requestData":{"json":{"content":"🏓 Pong : `36ms`","tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985234025415323679","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async PingCommand.messageRun (/home/container/src/commands/information/ping.js:26:5)
+    at async PingCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+21:29:46.999 INFO  Guild Joined: Serwer Nejtana Members: 2 
+22:33:43.141 ERROR The reply to this interaction has not been sent or deferred.
+{}
+Error [INTERACTION_NOT_REPLIED]: The reply to this interaction has not been sent or deferred.
+    at CommandInteraction.followUp (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:165:64)
+    at Queue.executeInteraction (/home/container/src/structures/Command.js:227:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:17:18) 
+22:33:43.690 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717734842424/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":null,"type":"rich","description":"**About Me:**\nHello I am Alvin!\nA cool multipurpose discord bot which can serve all your needs\n\n**Invite Me:** [Here](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174)\n**Support Server:** [Join](https://discord.gg/vckxkeBJqG)","url":null,"timestamp":0,"color":428765,"fields":[],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/744597377406599188/01011490c16b2a94f5faf3a62319a2c2.webp"},"image":{"url":"https://cdn.discordapp.com/attachments/965654226187460629/980773092307664926/09611780-c857-11eb-859d-0761b6537103.jpeg"},"author":null,"footer":null}],"components":[{"components":[{"custom_id":"help-menu","disabled":false,"placeholder":"Choose the command category","min_values":null,"options":[{"label":"Admin","value":"ADMIN","description":"View commands in Admin category","emoji":{"animated":false,"name":"⚙️","id":null},"default":false},{"label":"Automod","value":"AUTOMOD","description":"View commands in Automod category","emoji":{"animated":false,"name":"🤖","id":null},"default":false},{"label":"Anime","value":"ANIME","description":"View commands in Anime category","emoji":{"animated":false,"name":"🎨","id":null},"default":false},{"label":"Economy","value":"ECONOMY","description":"View commands in Economy category","emoji":{"animated":false,"name":"🪙","id":null},"default":false},{"label":"Fun","value":"FUN","description":"View commands in Fun category","emoji":{"animated":false,"name":"😂","id":null},"default":false},{"label":"Giveaway","value":"GIVEAWAY","description":"View commands in Giveaway category","emoji":{"animated":false,"name":"🎉","id":null},"default":false},{"label":"Image","value":"IMAGE","description":"View commands in Image category","emoji":{"animated":false,"name":"🖼️","id":null},"default":false},{"label":"Invite","value":"INVITE","description":"View commands in Invite category","emoji":{"animated":false,"name":"📨","id":null},"default":false},{"label":"Information","value":"INFORMATION","description":"View commands in Information category","emoji":{"animated":false,"name":"🪧","id":null},"default":false},{"label":"Moderation","value":"MODERATION","description":"View commands in Moderation category","emoji":{"animated":false,"name":"🔨","id":null},"default":false},{"label":"Music","value":"MUSIC","description":"View commands in Music category","emoji":{"animated":false,"name":"🎵","id":null},"default":false},{"label":"Owner","value":"OWNER","description":"View commands in Owner category","emoji":{"animated":false,"name":"🤴","id":null},"default":false},{"label":"Social","value":"SOCIAL","description":"View commands in Social category","emoji":{"animated":false,"name":"🫂","id":null},"default":false},{"label":"Ticket","value":"TICKET","description":"View commands in Ticket category","emoji":{"animated":false,"name":"🎫","id":null},"default":false},{"label":"Utility","value":"UTILITY","description":"View commands in Utility category","emoji":{"animated":false,"name":"🛠","id":null},"default":false}],"type":3}],"type":1},{"components":[{"custom_id":"previousBtn","disabled":true,"emoji":{"animated":false,"name":"⬅️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":"nextBtn","disabled":true,"emoji":{"animated":false,"name":"➡️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":null,"disabled":false,"emoji":null,"label":"Invite Link","style":5,"type":2,"url":"https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174"},{"custom_id":null,"disabled":false,"emoji":null,"label":"Support Server","style":5,"type":2,"url":"https://discord.gg/vckxkeBJqG"}],"type":1}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985297708615073792","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async HelpCommand.messageRun (/home/container/src/commands/utility/help.js:56:23)
+    at async HelpCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+22:33:48.953 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717923598363/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":null,"type":"rich","description":"**About Me:**\nHello I am Alvin!\nA cool multipurpose discord bot which can serve all your needs\n\n**Invite Me:** [Here](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174)\n**Support Server:** [Join](https://discord.gg/vckxkeBJqG)","url":null,"timestamp":0,"color":428765,"fields":[],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/744597377406599188/01011490c16b2a94f5faf3a62319a2c2.webp"},"image":{"url":"https://cdn.discordapp.com/attachments/965654226187460629/980773092307664926/09611780-c857-11eb-859d-0761b6537103.jpeg"},"author":null,"footer":null}],"components":[{"components":[{"custom_id":"help-menu","disabled":false,"placeholder":"Choose the command category","min_values":null,"options":[{"label":"Admin","value":"ADMIN","description":"View commands in Admin category","emoji":{"animated":false,"name":"⚙️","id":null},"default":false},{"label":"Automod","value":"AUTOMOD","description":"View commands in Automod category","emoji":{"animated":false,"name":"🤖","id":null},"default":false},{"label":"Anime","value":"ANIME","description":"View commands in Anime category","emoji":{"animated":false,"name":"🎨","id":null},"default":false},{"label":"Economy","value":"ECONOMY","description":"View commands in Economy category","emoji":{"animated":false,"name":"🪙","id":null},"default":false},{"label":"Fun","value":"FUN","description":"View commands in Fun category","emoji":{"animated":false,"name":"😂","id":null},"default":false},{"label":"Giveaway","value":"GIVEAWAY","description":"View commands in Giveaway category","emoji":{"animated":false,"name":"🎉","id":null},"default":false},{"label":"Image","value":"IMAGE","description":"View commands in Image category","emoji":{"animated":false,"name":"🖼️","id":null},"default":false},{"label":"Invite","value":"INVITE","description":"View commands in Invite category","emoji":{"animated":false,"name":"📨","id":null},"default":false},{"label":"Information","value":"INFORMATION","description":"View commands in Information category","emoji":{"animated":false,"name":"🪧","id":null},"default":false},{"label":"Moderation","value":"MODERATION","description":"View commands in Moderation category","emoji":{"animated":false,"name":"🔨","id":null},"default":false},{"label":"Music","value":"MUSIC","description":"View commands in Music category","emoji":{"animated":false,"name":"🎵","id":null},"default":false},{"label":"Owner","value":"OWNER","description":"View commands in Owner category","emoji":{"animated":false,"name":"🤴","id":null},"default":false},{"label":"Social","value":"SOCIAL","description":"View commands in Social category","emoji":{"animated":false,"name":"🫂","id":null},"default":false},{"label":"Ticket","value":"TICKET","description":"View commands in Ticket category","emoji":{"animated":false,"name":"🎫","id":null},"default":false},{"label":"Utility","value":"UTILITY","description":"View commands in Utility category","emoji":{"animated":false,"name":"🛠","id":null},"default":false}],"type":3}],"type":1},{"components":[{"custom_id":"previousBtn","disabled":true,"emoji":{"animated":false,"name":"⬅️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":"nextBtn","disabled":true,"emoji":{"animated":false,"name":"➡️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":null,"disabled":false,"emoji":null,"label":"Invite Link","style":5,"type":2,"url":"https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174"},{"custom_id":null,"disabled":false,"emoji":null,"label":"Support Server","style":5,"type":2,"url":"https://discord.gg/vckxkeBJqG"}],"type":1}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985296206852947979","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async HelpCommand.messageRun (/home/container/src/commands/utility/help.js:56:23)
+    at async HelpCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+22:33:49.079 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717923598363/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":"Bot Information","type":"rich","description":"❒ Total guilds: 837\n❒ Total users: 328317\n❒ Total channels: 30401\n❒ Websocket Ping: 33 ms\n\n","url":null,"timestamp":0,"color":428765,"fields":[{"name":"CPU:","value":"❯ **OS:** linux [x64]\n❯ **Cores:** 16\n❯ **Usage:** 184.60 MB","inline":true},{"name":"Bot's RAM:","value":"❯ **Used:** 135.72 MB\n❯ **Available:** 15.63 GB\n❯ **Usage:** 0.8%","inline":true},{"name":"Overall RAM:","value":"❯ **Used:** 13.14 GB\n❯ **Available:** 15.63 GB\n❯ **Usage:** 84%","inline":true},{"name":"Node Js version","value":"16.15.0","inline":false},{"name":"Uptime","value":"```6 hours, 39 minutes, 17 seconds```","inline":false}],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/744597377406599188/01011490c16b2a94f5faf3a62319a2c2.webp"},"image":null,"author":null,"footer":null}],"components":[{"components":[{"custom_id":null,"disabled":false,"emoji":null,"label":"Invite Link","style":5,"type":2,"url":"https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174"},{"custom_id":null,"disabled":false,"emoji":null,"label":"Support Server","style":5,"type":2,"url":"https://discord.gg/vckxkeBJqG"}],"type":1}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985296259667615795","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async BotStats.messageRun (/home/container/src/commands/information/botstats.js:29:5)
+    at async BotStats.executeCommand (/home/container/src/structures/Command.js:160:7) 
+22:33:54.304 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717923598363/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":null,"type":"rich","description":"**About Me:**\nHello I am Alvin!\nA cool multipurpose discord bot which can serve all your needs\n\n**Invite Me:** [Here](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174)\n**Support Server:** [Join](https://discord.gg/vckxkeBJqG)","url":null,"timestamp":0,"color":428765,"fields":[],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/744597377406599188/01011490c16b2a94f5faf3a62319a2c2.webp"},"image":{"url":"https://cdn.discordapp.com/attachments/965654226187460629/980773092307664926/09611780-c857-11eb-859d-0761b6537103.jpeg"},"author":null,"footer":null}],"components":[{"components":[{"custom_id":"help-menu","disabled":false,"placeholder":"Choose the command category","min_values":null,"options":[{"label":"Admin","value":"ADMIN","description":"View commands in Admin category","emoji":{"animated":false,"name":"⚙️","id":null},"default":false},{"label":"Automod","value":"AUTOMOD","description":"View commands in Automod category","emoji":{"animated":false,"name":"🤖","id":null},"default":false},{"label":"Anime","value":"ANIME","description":"View commands in Anime category","emoji":{"animated":false,"name":"🎨","id":null},"default":false},{"label":"Economy","value":"ECONOMY","description":"View commands in Economy category","emoji":{"animated":false,"name":"🪙","id":null},"default":false},{"label":"Fun","value":"FUN","description":"View commands in Fun category","emoji":{"animated":false,"name":"😂","id":null},"default":false},{"label":"Giveaway","value":"GIVEAWAY","description":"View commands in Giveaway category","emoji":{"animated":false,"name":"🎉","id":null},"default":false},{"label":"Image","value":"IMAGE","description":"View commands in Image category","emoji":{"animated":false,"name":"🖼️","id":null},"default":false},{"label":"Invite","value":"INVITE","description":"View commands in Invite category","emoji":{"animated":false,"name":"📨","id":null},"default":false},{"label":"Information","value":"INFORMATION","description":"View commands in Information category","emoji":{"animated":false,"name":"🪧","id":null},"default":false},{"label":"Moderation","value":"MODERATION","description":"View commands in Moderation category","emoji":{"animated":false,"name":"🔨","id":null},"default":false},{"label":"Music","value":"MUSIC","description":"View commands in Music category","emoji":{"animated":false,"name":"🎵","id":null},"default":false},{"label":"Owner","value":"OWNER","description":"View commands in Owner category","emoji":{"animated":false,"name":"🤴","id":null},"default":false},{"label":"Social","value":"SOCIAL","description":"View commands in Social category","emoji":{"animated":false,"name":"🫂","id":null},"default":false},{"label":"Ticket","value":"TICKET","description":"View commands in Ticket category","emoji":{"animated":false,"name":"🎫","id":null},"default":false},{"label":"Utility","value":"UTILITY","description":"View commands in Utility category","emoji":{"animated":false,"name":"🛠","id":null},"default":false}],"type":3}],"type":1},{"components":[{"custom_id":"previousBtn","disabled":true,"emoji":{"animated":false,"name":"⬅️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":"nextBtn","disabled":true,"emoji":{"animated":false,"name":"➡️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":null,"disabled":false,"emoji":null,"label":"Invite Link","style":5,"type":2,"url":"https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174"},{"custom_id":null,"disabled":false,"emoji":null,"label":"Support Server","style":5,"type":2,"url":"https://discord.gg/vckxkeBJqG"}],"type":1}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985296529378136094","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async HelpCommand.messageRun (/home/container/src/commands/utility/help.js:56:23)
+    at async HelpCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+22:33:54.616 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717923598363/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":null,"type":"rich","description":"**About Me:**\nHello I am Alvin!\nA cool multipurpose discord bot which can serve all your needs\n\n**Invite Me:** [Here](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174)\n**Support Server:** [Join](https://discord.gg/vckxkeBJqG)","url":null,"timestamp":0,"color":428765,"fields":[],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/744597377406599188/01011490c16b2a94f5faf3a62319a2c2.webp"},"image":{"url":"https://cdn.discordapp.com/attachments/965654226187460629/980773092307664926/09611780-c857-11eb-859d-0761b6537103.jpeg"},"author":null,"footer":null}],"components":[{"components":[{"custom_id":"help-menu","disabled":false,"placeholder":"Choose the command category","min_values":null,"options":[{"label":"Admin","value":"ADMIN","description":"View commands in Admin category","emoji":{"animated":false,"name":"⚙️","id":null},"default":false},{"label":"Automod","value":"AUTOMOD","description":"View commands in Automod category","emoji":{"animated":false,"name":"🤖","id":null},"default":false},{"label":"Anime","value":"ANIME","description":"View commands in Anime category","emoji":{"animated":false,"name":"🎨","id":null},"default":false},{"label":"Economy","value":"ECONOMY","description":"View commands in Economy category","emoji":{"animated":false,"name":"🪙","id":null},"default":false},{"label":"Fun","value":"FUN","description":"View commands in Fun category","emoji":{"animated":false,"name":"😂","id":null},"default":false},{"label":"Giveaway","value":"GIVEAWAY","description":"View commands in Giveaway category","emoji":{"animated":false,"name":"🎉","id":null},"default":false},{"label":"Image","value":"IMAGE","description":"View commands in Image category","emoji":{"animated":false,"name":"🖼️","id":null},"default":false},{"label":"Invite","value":"INVITE","description":"View commands in Invite category","emoji":{"animated":false,"name":"📨","id":null},"default":false},{"label":"Information","value":"INFORMATION","description":"View commands in Information category","emoji":{"animated":false,"name":"🪧","id":null},"default":false},{"label":"Moderation","value":"MODERATION","description":"View commands in Moderation category","emoji":{"animated":false,"name":"🔨","id":null},"default":false},{"label":"Music","value":"MUSIC","description":"View commands in Music category","emoji":{"animated":false,"name":"🎵","id":null},"default":false},{"label":"Owner","value":"OWNER","description":"View commands in Owner category","emoji":{"animated":false,"name":"🤴","id":null},"default":false},{"label":"Social","value":"SOCIAL","description":"View commands in Social category","emoji":{"animated":false,"name":"🫂","id":null},"default":false},{"label":"Ticket","value":"TICKET","description":"View commands in Ticket category","emoji":{"animated":false,"name":"🎫","id":null},"default":false},{"label":"Utility","value":"UTILITY","description":"View commands in Utility category","emoji":{"animated":false,"name":"🛠","id":null},"default":false}],"type":3}],"type":1},{"components":[{"custom_id":"previousBtn","disabled":true,"emoji":{"animated":false,"name":"⬅️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":"nextBtn","disabled":true,"emoji":{"animated":false,"name":"➡️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":null,"disabled":false,"emoji":null,"label":"Invite Link","style":5,"type":2,"url":"https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174"},{"custom_id":null,"disabled":false,"emoji":null,"label":"Support Server","style":5,"type":2,"url":"https://discord.gg/vckxkeBJqG"}],"type":1}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985296661934911508","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async HelpCommand.messageRun (/home/container/src/commands/utility/help.js:56:23)
+    at async HelpCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+22:33:54.788 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717923598363/messages","code":50035,"httpStatus":400,"requestData":{"json":{"content":"My Uptime: `6 hours, 41 minutes, 30 seconds`","tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985296820378943498","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async BotInvite.messageRun (/home/container/src/commands/information/uptime.js:26:5)
+    at async BotInvite.executeCommand (/home/container/src/structures/Command.js:160:7) 
+22:33:54.933 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717923598363/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":null,"type":"rich","description":"**About Me:**\nHello I am Alvin!\nA cool multipurpose discord bot which can serve all your needs\n\n**Invite Me:** [Here](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174)\n**Support Server:** [Join](https://discord.gg/vckxkeBJqG)","url":null,"timestamp":0,"color":428765,"fields":[],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/744597377406599188/01011490c16b2a94f5faf3a62319a2c2.webp"},"image":{"url":"https://cdn.discordapp.com/attachments/965654226187460629/980773092307664926/09611780-c857-11eb-859d-0761b6537103.jpeg"},"author":null,"footer":null}],"components":[{"components":[{"custom_id":"help-menu","disabled":false,"placeholder":"Choose the command category","min_values":null,"options":[{"label":"Admin","value":"ADMIN","description":"View commands in Admin category","emoji":{"animated":false,"name":"⚙️","id":null},"default":false},{"label":"Automod","value":"AUTOMOD","description":"View commands in Automod category","emoji":{"animated":false,"name":"🤖","id":null},"default":false},{"label":"Anime","value":"ANIME","description":"View commands in Anime category","emoji":{"animated":false,"name":"🎨","id":null},"default":false},{"label":"Economy","value":"ECONOMY","description":"View commands in Economy category","emoji":{"animated":false,"name":"🪙","id":null},"default":false},{"label":"Fun","value":"FUN","description":"View commands in Fun category","emoji":{"animated":false,"name":"😂","id":null},"default":false},{"label":"Giveaway","value":"GIVEAWAY","description":"View commands in Giveaway category","emoji":{"animated":false,"name":"🎉","id":null},"default":false},{"label":"Image","value":"IMAGE","description":"View commands in Image category","emoji":{"animated":false,"name":"🖼️","id":null},"default":false},{"label":"Invite","value":"INVITE","description":"View commands in Invite category","emoji":{"animated":false,"name":"📨","id":null},"default":false},{"label":"Information","value":"INFORMATION","description":"View commands in Information category","emoji":{"animated":false,"name":"🪧","id":null},"default":false},{"label":"Moderation","value":"MODERATION","description":"View commands in Moderation category","emoji":{"animated":false,"name":"🔨","id":null},"default":false},{"label":"Music","value":"MUSIC","description":"View commands in Music category","emoji":{"animated":false,"name":"🎵","id":null},"default":false},{"label":"Owner","value":"OWNER","description":"View commands in Owner category","emoji":{"animated":false,"name":"🤴","id":null},"default":false},{"label":"Social","value":"SOCIAL","description":"View commands in Social category","emoji":{"animated":false,"name":"🫂","id":null},"default":false},{"label":"Ticket","value":"TICKET","description":"View commands in Ticket category","emoji":{"animated":false,"name":"🎫","id":null},"default":false},{"label":"Utility","value":"UTILITY","description":"View commands in Utility category","emoji":{"animated":false,"name":"🛠","id":null},"default":false}],"type":3}],"type":1},{"components":[{"custom_id":"previousBtn","disabled":true,"emoji":{"animated":false,"name":"⬅️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":"nextBtn","disabled":true,"emoji":{"animated":false,"name":"➡️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":null,"disabled":false,"emoji":null,"label":"Invite Link","style":5,"type":2,"url":"https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174"},{"custom_id":null,"disabled":false,"emoji":null,"label":"Support Server","style":5,"type":2,"url":"https://discord.gg/vckxkeBJqG"}],"type":1}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985297571356495953","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async HelpCommand.messageRun (/home/container/src/commands/utility/help.js:56:23)
+    at async HelpCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+22:33:55.055 ERROR Invalid Form Body
+message_reference: Unknown message
+{"name":"DiscordAPIError","message":"Invalid Form Body\nmessage_reference: Unknown message","method":"post","path":"/channels/985274717923598363/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":null,"type":"rich","description":"**About Me:**\nHello I am Alvin!\nA cool multipurpose discord bot which can serve all your needs\n\n**Invite Me:** [Here](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174)\n**Support Server:** [Join](https://discord.gg/vckxkeBJqG)","url":null,"timestamp":0,"color":428765,"fields":[],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/744597377406599188/01011490c16b2a94f5faf3a62319a2c2.webp"},"image":{"url":"https://cdn.discordapp.com/attachments/965654226187460629/980773092307664926/09611780-c857-11eb-859d-0761b6537103.jpeg"},"author":null,"footer":null}],"components":[{"components":[{"custom_id":"help-menu","disabled":false,"placeholder":"Choose the command category","min_values":null,"options":[{"label":"Admin","value":"ADMIN","description":"View commands in Admin category","emoji":{"animated":false,"name":"⚙️","id":null},"default":false},{"label":"Automod","value":"AUTOMOD","description":"View commands in Automod category","emoji":{"animated":false,"name":"🤖","id":null},"default":false},{"label":"Anime","value":"ANIME","description":"View commands in Anime category","emoji":{"animated":false,"name":"🎨","id":null},"default":false},{"label":"Economy","value":"ECONOMY","description":"View commands in Economy category","emoji":{"animated":false,"name":"🪙","id":null},"default":false},{"label":"Fun","value":"FUN","description":"View commands in Fun category","emoji":{"animated":false,"name":"😂","id":null},"default":false},{"label":"Giveaway","value":"GIVEAWAY","description":"View commands in Giveaway category","emoji":{"animated":false,"name":"🎉","id":null},"default":false},{"label":"Image","value":"IMAGE","description":"View commands in Image category","emoji":{"animated":false,"name":"🖼️","id":null},"default":false},{"label":"Invite","value":"INVITE","description":"View commands in Invite category","emoji":{"animated":false,"name":"📨","id":null},"default":false},{"label":"Information","value":"INFORMATION","description":"View commands in Information category","emoji":{"animated":false,"name":"🪧","id":null},"default":false},{"label":"Moderation","value":"MODERATION","description":"View commands in Moderation category","emoji":{"animated":false,"name":"🔨","id":null},"default":false},{"label":"Music","value":"MUSIC","description":"View commands in Music category","emoji":{"animated":false,"name":"🎵","id":null},"default":false},{"label":"Owner","value":"OWNER","description":"View commands in Owner category","emoji":{"animated":false,"name":"🤴","id":null},"default":false},{"label":"Social","value":"SOCIAL","description":"View commands in Social category","emoji":{"animated":false,"name":"🫂","id":null},"default":false},{"label":"Ticket","value":"TICKET","description":"View commands in Ticket category","emoji":{"animated":false,"name":"🎫","id":null},"default":false},{"label":"Utility","value":"UTILITY","description":"View commands in Utility category","emoji":{"animated":false,"name":"🛠","id":null},"default":false}],"type":3}],"type":1},{"components":[{"custom_id":"previousBtn","disabled":true,"emoji":{"animated":false,"name":"⬅️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":"nextBtn","disabled":true,"emoji":{"animated":false,"name":"➡️","id":null},"label":null,"style":2,"type":2,"url":null},{"custom_id":null,"disabled":false,"emoji":null,"label":"Invite Link","style":5,"type":2,"url":"https://discord.com/api/oauth2/authorize?client_id=744597377406599188&scope=bot+applications.commands&permissions=275380301174"},{"custom_id":null,"disabled":false,"emoji":null,"label":"Support Server","style":5,"type":2,"url":"https://discord.gg/vckxkeBJqG"}],"type":1}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985297677736620053","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async HelpCommand.messageRun (/home/container/src/commands/utility/help.js:56:23)
+    at async HelpCommand.executeCommand (/home/container/src/structures/Command.js:160:7) 
+

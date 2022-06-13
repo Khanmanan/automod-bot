@@ -1,0 +1,466 @@
+10:03:13.608 INFO  Loading commands... 
+10:03:13.804 DEBUG Skipping slash command avatar. Disabled! 
+10:03:13.807 DEBUG Skipping slash command botinvite. Disabled! 
+10:03:13.818 DEBUG Skipping slash command botstats. Disabled! 
+10:03:13.823 DEBUG Skipping slash command channelinfo. Disabled! 
+10:03:13.829 DEBUG Skipping slash command emojiinfo. Disabled! 
+10:03:13.832 DEBUG Skipping slash command guildinfo. Disabled! 
+10:03:13.845 DEBUG Skipping command bot. Disabled! 
+10:03:13.847 DEBUG Skipping command info. Disabled! 
+10:03:13.848 DEBUG Skipping slash command uptime. Disabled! 
+10:03:13.850 DEBUG Skipping slash command userinfo. Disabled! 
+10:03:13.921 DEBUG Skipping slash command deafen. Disabled! 
+10:03:13.927 DEBUG Skipping slash command disconnect. Disabled! 
+10:03:13.947 DEBUG Skipping slash command move. Disabled! 
+10:03:13.960 DEBUG Skipping slash command purge. Disabled! 
+10:03:13.965 DEBUG Skipping slash command purgeattach. Disabled! 
+10:03:13.967 DEBUG Skipping slash command purgebots. Disabled! 
+10:03:13.971 DEBUG Skipping slash command purgelinks. Disabled! 
+10:03:13.975 DEBUG Skipping slash command purgetoken. Disabled! 
+10:03:13.986 DEBUG Skipping slash command purgeuser. Disabled! 
+10:03:13.993 DEBUG Skipping command purge. Disabled! 
+10:03:13.997 DEBUG Skipping command voice. Disabled! 
+10:03:14.015 DEBUG Skipping slash command undeafen. Disabled! 
+10:03:14.022 DEBUG Skipping slash command vmute. Disabled! 
+10:03:14.025 DEBUG Skipping slash command vunmute. Disabled! 
+10:03:14.167 INFO  Loaded 94 commands 
+10:03:14.168 INFO  Loaded 78 slash commands 
+10:03:14.169 INFO  Loading contexts... 
+10:03:14.176 INFO  Loaded 2 USER contexts 
+10:03:14.176 INFO  Loaded 0 MESSAGE contexts 
+10:03:14.177 INFO  Loading events... 
+10:03:14.305 INFO  Loaded 22 events. Success (22) Failed (0) 
+10:03:14.535 WARN  VersionCheck: 4.2.3 update is available 
+10:03:14.535 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+10:03:14.536 INFO  Validating config.js and environment variables 
+10:03:14.536 INFO  Connecting to MongoDb... 
+10:03:15.779 INFO  Mongoose: Database connection established 
+10:03:16.426 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (/home/container/node_modules/discord.js/src/client/websocket/WebSocketManager.js:250:15)
+    at async BotClient.login (/home/container/node_modules/discord.js/src/client/Client.js:254:7)
+    at async /home/container/bot.js:32:3 
+10:05:07.041 INFO  Loading commands... 
+10:05:07.286 DEBUG Skipping slash command avatar. Disabled! 
+10:05:07.289 DEBUG Skipping slash command botinvite. Disabled! 
+10:05:07.301 DEBUG Skipping slash command botstats. Disabled! 
+10:05:07.313 DEBUG Skipping slash command channelinfo. Disabled! 
+10:05:07.322 DEBUG Skipping slash command emojiinfo. Disabled! 
+10:05:07.332 DEBUG Skipping slash command guildinfo. Disabled! 
+10:05:07.345 DEBUG Skipping command bot. Disabled! 
+10:05:07.346 DEBUG Skipping command info. Disabled! 
+10:05:07.347 DEBUG Skipping slash command uptime. Disabled! 
+10:05:07.348 DEBUG Skipping slash command userinfo. Disabled! 
+10:05:07.442 DEBUG Skipping slash command deafen. Disabled! 
+10:05:07.493 DEBUG Skipping slash command disconnect. Disabled! 
+10:05:07.522 DEBUG Skipping slash command move. Disabled! 
+10:05:07.535 DEBUG Skipping slash command purge. Disabled! 
+10:05:07.538 DEBUG Skipping slash command purgeattach. Disabled! 
+10:05:07.548 DEBUG Skipping slash command purgebots. Disabled! 
+10:05:07.551 DEBUG Skipping slash command purgelinks. Disabled! 
+10:05:07.554 DEBUG Skipping slash command purgetoken. Disabled! 
+10:05:07.558 DEBUG Skipping slash command purgeuser. Disabled! 
+10:05:07.578 DEBUG Skipping command purge. Disabled! 
+10:05:07.581 DEBUG Skipping command voice. Disabled! 
+10:05:07.600 DEBUG Skipping slash command undeafen. Disabled! 
+10:05:07.613 DEBUG Skipping slash command vmute. Disabled! 
+10:05:07.619 DEBUG Skipping slash command vunmute. Disabled! 
+10:05:07.828 INFO  Loaded 94 commands 
+10:05:07.829 INFO  Loaded 78 slash commands 
+10:05:07.830 INFO  Loading contexts... 
+10:05:07.837 INFO  Loaded 2 USER contexts 
+10:05:07.838 INFO  Loaded 0 MESSAGE contexts 
+10:05:07.838 INFO  Loading events... 
+10:05:08.004 INFO  Loaded 22 events. Success (22) Failed (0) 
+10:05:08.301 WARN  VersionCheck: 4.2.3 update is available 
+10:05:08.301 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+10:05:08.302 INFO  Validating config.js and environment variables 
+10:05:08.303 INFO  Connecting to MongoDb... 
+10:05:09.637 INFO  Mongoose: Database connection established 
+10:05:20.577 INFO  Logged in as Automodv12 beta#8265! (744597377406599188) 
+10:05:20.577 INFO  Initializing music manager 
+10:05:20.771 INFO  Node "USA Link" connected 
+10:05:21.110 INFO  Successfully registered slash commands 
+10:05:21.662 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.673 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.680 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.691 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.696 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.715 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "852712977232298015" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"852712977232298015"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "852712977232298015" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.724 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "852712977232298015" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"852712977232298015"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "852712977232298015" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.755 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.767 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.780 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.785 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.795 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.797 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.801 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.809 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.825 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.830 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"840154858895048745"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "840154858895048745" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:05:21.860 ERROR E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "852712977232298015" }
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"852712977232298015"}}
+MongoError: E11000 duplicate key error collection: music2.guilds index: _id_ dup key: { _id: "852712977232298015" }
+    at Function.create (/home/container/node_modules/mongodb/lib/core/error.js:59:12)
+    at toError (/home/container/node_modules/mongodb/lib/utils.js:130:22)
+    at /home/container/node_modules/mongodb/lib/operations/common_functions.js:258:39
+    at handler (/home/container/node_modules/mongodb/lib/core/sdam/topology.js:961:24)
+    at /home/container/node_modules/mongodb/lib/cmap/connection_pool.js:352:13
+    at handleOperationResult (/home/container/node_modules/mongodb/lib/core/sdam/server.js:567:5)
+    at MessageStream.messageHandler (/home/container/node_modules/mongodb/lib/cmap/connection.js:308:5)
+    at MessageStream.emit (node:events:527:28)
+    at processIncomingData (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/home/container/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12) 
+10:48:16.058 ERROR Cannot send an empty message
+{"name":"DiscordAPIError","message":"Cannot send an empty message","method":"post","path":"/channels/816496661793996801/messages","code":50006,"httpStatus":400,"requestData":{"json":{"tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"981509480309219410","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async Welcome.executeCommand (/home/container/src/structures/Command.js:160:7) 
+15:26:14.708 INFO  Guild Joined: Serwer użytkownika RoxetT Members: 3 
+18:21:20.596 WARN  Node "USA Link" is reconnecting 
+18:21:21.474 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+18:21:26.477 WARN  Node "USA Link" is reconnecting 
+18:21:26.567 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+18:21:31.568 WARN  Node "USA Link" is reconnecting 
+18:21:31.653 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+18:21:36.655 WARN  Node "USA Link" is reconnecting 
+18:21:36.742 ERROR connect ECONNREFUSED 129.146.35.175:2333
+{"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"129.146.35.175","port":2333}
+Error: connect ECONNREFUSED 129.146.35.175:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16) 
+18:21:41.743 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (/home/container/node_modules/erela.js/dist/structures/Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+18:46:50.631 INFO  Guild Joined: Сервер dedur Members: 3 
+20:07:51.152 DEBUG No available nodes! 
+20:08:01.679 DEBUG No available nodes! 
+

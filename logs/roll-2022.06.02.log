@@ -1,0 +1,21 @@
+04:40:10.230 DEBUG No available nodes! 
+04:40:18.857 DEBUG No available nodes! 
+05:52:35.806 DEBUG No available nodes! 
+05:52:51.860 DEBUG No available nodes! 
+15:59:30.420 ERROR Invalid Form Body
+embeds[0].fields[3].value: Must be 1024 or fewer in length.
+{"name":"DiscordAPIError","message":"Invalid Form Body\nembeds[0].fields[3].value: Must be 1024 or fewer in length.","method":"post","path":"/channels/868478798952275988/messages","code":50035,"httpStatus":400,"requestData":{"json":{"tts":false,"embeds":[{"title":"GUILD INFORMATION","type":"rich","description":"❯ **Id:** 787315610102530048\n❯ **Name:** </Cw khan>\n❯ **Owner:** </ Cw khan >#6174\n❯ **Region:** en-US\n\n","url":null,"timestamp":0,"color":428765,"fields":[{"name":"Server Members [40]","value":"```Members: 34\nBots: 6```","inline":true},{"name":"Online Stats [0]","value":"```Members: 0\nBots: 0```","inline":true},{"name":"Categories and channels [82]","value":"```Categories: 16 | Text: 48 | Voice: 12 | Thread: 0```","inline":false},{"name":"Roles [100]","value":"```js ping[6], HaileyBot[0], | Code Helper[1], BEAST[1], Rythm[0], Cw khan ( ping=mute)[1], |ROLE MANAGER[0], |hypesquadbravery[1], |hypesquadbalance[1], |Cw OFFICIAL[1], |SERVER CREATER[0], AXVin-Bot[0], Automod Premium[0], |Special members[0], |subscribe 😎[0], YouTube[0], | Giveaway manager[0], |botdeveloper[1], MEE6[0], Uptime bot[0], |Fun Bot[0], MODBOT[1], ZeroTwo[0], |discordstaff[1], |bughunterlevel1[1], CrimHish[1], ProBot ✨[1], |Partners[0], Aki[0], Vortex[0], |discordpartner[1], ■■□□□₂₀%[3], ■■■■□₆₀%[1], |MEMBER OF MEMBER[0], |Partner Ping[1], Automodbot premium[0], blue bot[0], Github ping[4], |earlysupporter[1], Arcane[1], GiveawayBot[0], ServerStats[0], Youtubers & devs[0], ■■■■■₁₀₀%[1], Watchbot[0], Better Emotes[0], Youtube ping[3], Security[0], Vectron[0], Asunna[0], Events ping[3], UnbelievaBoat[0], MYLO™[0], Coding hub[0], Cw khan[0], DS.ME[0], | OWNER[0], |BOT[4], |hypesquadbrilliance[1], YAGPDB.xyz[0], LuvBot[0], DSL[0], new role[0], |MUSIC[0], Nightbot[0], WidgetBot[0], muted and punished[0], Muted[0], ■□□□□₁₀%[4], Female[1], DSL[0], □□□□□₂%‎‎‎[12], |hypesquadevents[1], python[3], male[6], Automod v12 Beta[1], Blurplefied[1], |moderator[1], html[4], Prism[0], |developer's[32], Groovy[0], Gold Role[0], |bughunterlevel2[1], new role[0], Hydra[0], vectron[0], |Contributors[0], Dank Memer[0], OwO[0], Dyno[0], | LOGO MANAGER[0], carl-bot[0], |helper[1], Koya[0], EPIC RPG[0], ■■■□□₄₀%[1], Boosters[0], Giveway ping[4]```","inline":false},{"name":"Verification","value":"```LOW```","inline":true},{"name":"Boost Count","value":"```1```","inline":true},{"name":"Server Created [a year ago]","value":"```Saturday, 12th December 2020```","inline":false}],"thumbnail":{"url":"https://cdn.discordapp.com/icons/787315610102530048/e27e1489b1cedc69127293c050326b9b.webp"},"image":{},"author":null,"footer":null}],"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"981950191156477952","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Invalid Form Body
+embeds[0].fields[3].value: Must be 1024 or fewer in length.
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async GuildInfo.messageRun (/home/container/src/commands/information/guildinfo.js:29:5)
+    at async GuildInfo.executeCommand (/home/container/src/structures/Command.js:160:7) 
+17:33:10.244 INFO  Guild Joined: Yugoslavia Members: 13 
+17:40:02.493 INFO  Guild Left: Yugoslavia Members: 12 
+18:41:00.026 INFO  Guild Left: GIF ROYALS #42K Members: 42569 
+18:58:16.582 INFO  Guild Joined: \fasfsafassfasaf Members: 6 
+
