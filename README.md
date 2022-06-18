@@ -8,7 +8,7 @@
 >
 > Support Server: [Join Here](https://discord.gg/uPBqMHu9X4)
 >
-> Documentation URL: [Visit Here](https://docs.strangebot.xyz)
+> Documentation URL: [Visit Here](https://github.com/MrrVit665/automod-bot/#README.md)
 
 ### Prerequisites
 
