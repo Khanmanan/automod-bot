@@ -3,7 +3,7 @@
   "version": "4.1.0",
   "description": "A multipurpose discord bot built using discord-js",
   "main": "bot.js",
-  "author": "Sai Teja M",
+  "author": "JohnDavid",
   "license": "ISC",
   "engines": {
     "node": ">=16.6.0"
@@ -12,10 +12,10 @@
     "dev": "nodemon .",
     "start": "nodemon bot.js"
   },
-  "homepage": "https://github.com/saiteja-madha/discord-js-bot#readme",
+  "homepage": "https://github.com/Khanmanan/automod-bot#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saiteja-madha/discord-js-bot.git"
+    "url": "git+https://github.com/Khanmanan/automod-bot.git"
   },
   "dependencies": {
     "@vitalets/google-translate-api": "^7.0.0",
@@ -74,7 +74,7 @@
     "@utils": "src/utils/"
   },
   "bugs": {
-    "url": "https://github.com/saiteja-madha/discord-js-bot/issues"
+    "url": "https://github.com/Khanmanan/automod-bot/issues"
   },
   "directories": {
     "doc": "docs"
