@@ -1,6 +1,6 @@
 # 🤖 About Me
 
-![Automod Bot](https://imgur.com/gallery/FMDNRXd)
+![Automod Bot](https://media.discordapp.net/attachments/856206298630455357/966214260768251904/2.-A-by-Nick-Matey.jpg)
 
 > An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
 
