@@ -1,0 +1,80 @@
+00:34:27.273 INFO  Loading commands... 
+00:34:27.408 DEBUG Skipping slash command avatar. Disabled! 
+00:34:27.411 DEBUG Skipping slash command botinvite. Disabled! 
+00:34:27.418 DEBUG Skipping slash command botstats. Disabled! 
+00:34:27.420 DEBUG Skipping slash command channelinfo. Disabled! 
+00:34:27.422 DEBUG Skipping slash command emojiinfo. Disabled! 
+00:34:27.423 DEBUG Skipping slash command guildinfo. Disabled! 
+00:34:27.437 DEBUG Skipping command bot. Disabled! 
+00:34:27.438 DEBUG Skipping command info. Disabled! 
+00:34:27.439 DEBUG Skipping slash command uptime. Disabled! 
+00:34:27.440 DEBUG Skipping slash command userinfo. Disabled! 
+00:34:27.455 DEBUG Skipping slash command deafen. Disabled! 
+00:34:27.456 DEBUG Skipping slash command disconnect. Disabled! 
+00:34:27.458 DEBUG Skipping slash command move. Disabled! 
+00:34:27.460 DEBUG Skipping slash command purge. Disabled! 
+00:34:27.460 DEBUG Skipping slash command purgeattach. Disabled! 
+00:34:27.461 DEBUG Skipping slash command purgebots. Disabled! 
+00:34:27.462 DEBUG Skipping slash command purgelinks. Disabled! 
+00:34:27.462 DEBUG Skipping slash command purgetoken. Disabled! 
+00:34:27.463 DEBUG Skipping slash command purgeuser. Disabled! 
+00:34:27.465 DEBUG Skipping command purge. Disabled! 
+00:34:27.467 DEBUG Skipping command voice. Disabled! 
+00:34:27.469 DEBUG Skipping slash command undeafen. Disabled! 
+00:34:27.470 DEBUG Skipping slash command vmute. Disabled! 
+00:34:27.471 DEBUG Skipping slash command vunmute. Disabled! 
+00:34:27.548 INFO  Loaded 94 commands 
+00:34:27.548 INFO  Loaded 78 slash commands 
+00:34:27.548 INFO  Loading contexts... 
+00:34:27.551 INFO  Loaded 2 USER contexts 
+00:34:27.551 INFO  Loaded 0 MESSAGE contexts 
+00:34:27.552 INFO  Loading events... 
+00:34:27.617 INFO  Loaded 22 events. Success (22) Failed (0) 
+00:34:27.890 WARN  VersionCheck: 4.2.2 update is available 
+00:34:27.891 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+00:34:27.891 INFO  Validating config.js and environment variables 
+00:34:27.891 INFO  Connecting to MongoDb... 
+00:34:29.185 INFO  Mongoose: Database connection established 
+00:52:11.406 INFO  Logged in as Mocy#5428! (936627481442672710) 
+00:52:11.407 INFO  Initializing music manager 
+00:52:11.807 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+00:52:13.048 INFO  Successfully registered slash commands 
+07:16:24.185 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+07:17:07.188 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+11:25:19.562 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+11:27:20.158 ERROR Unexpected server response: 502
+{}
+Error: Unexpected server response: 502
+    at ClientRequest.<anonymous> (/home/container/node_modules/erela.js/node_modules/ws/lib/websocket.js:767:7)
+    at ClientRequest.emit (node:events:526:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:618:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at TLSSocket.socketOnData (node:_http_client:482:22)
+    at TLSSocket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at TLSSocket.Readable.push (node:internal/streams/readable:228:10)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23) 
+11:27:25.215 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+11:28:19.861 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+16:10:03.543 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+16:12:04.124 ERROR Unexpected server response: 502
+{}
+Error: Unexpected server response: 502
+    at ClientRequest.<anonymous> (/home/container/node_modules/erela.js/node_modules/ws/lib/websocket.js:767:7)
+    at ClientRequest.emit (node:events:526:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:618:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at TLSSocket.socketOnData (node:_http_client:482:22)
+    at TLSSocket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at TLSSocket.Readable.push (node:internal/streams/readable:228:10)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23) 
+16:12:09.292 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (/home/container/node_modules/erela.js/dist/structures/Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+

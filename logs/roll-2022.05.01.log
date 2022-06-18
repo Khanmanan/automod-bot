@@ -1,0 +1,10 @@
+11:46:34.504 ERROR Unknown interaction
+{"name":"DiscordAPIError","message":"Unknown interaction","method":"post","path":"/interactions/970290086925172776/aW50ZXJhY3Rpb246OTcwMjkwMDg2OTI1MTcyNzc2OmRpbDlodTF2eWM4RFV0dWxHWnZhd3ptaUs3dlVhZGhrVGUzQXg3enNncFlZMGVuZGtoQjJsUG5Kcjd0SHRPekpsNXdEdUtvdVZMY0ZkTXRHcFR6ZW1NM3NwSG9DVVJ4UjZYc2Q0Nk1uSGVSblF6M2ZwNWplS2JPanB2dW4zMlhM/callback","code":10062,"httpStatus":404,"requestData":{"json":{"type":6},"files":[]}}
+DiscordAPIError: Unknown interaction
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async ButtonInteraction.deferUpdate (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:181:5)
+    at async InteractionCollector.<anonymous> (/home/container/src/commands/utility/help.js:171:5) 
+

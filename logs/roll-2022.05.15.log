@@ -1,0 +1,16 @@
+07:32:32.398 INFO  Guild Joined: 𝐄𝐧𝐝𝐞𝐫𝐌𝐂 | 𝐍𝐞𝐭𝐖𝐨𝐫𝐤 Members: 246 
+11:05:45.352 ERROR Cannot send an empty message
+{"name":"DiscordAPIError","message":"Cannot send an empty message","method":"post","path":"/channels/972892801538871376/messages","code":50006,"httpStatus":400,"requestData":{"json":{"tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"975353287203237908","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async Welcome.executeCommand (/home/container/src/structures/Command.js:160:7) 
+11:08:11.104 INFO  Guild Left: 𝐄𝐧𝐝𝐞𝐫𝐌𝐂 | 𝐍𝐞𝐭𝐖𝐨𝐫𝐤 Members: 246 
+11:08:33.153 INFO  Guild Joined: 𝐄𝐧𝐝𝐞𝐫𝐌𝐂 | 𝐍𝐞𝐭𝐖𝐨𝐫𝐤 Members: 247 
+16:09:50.293 INFO  Guild Left: 𝐄𝐧𝐝𝐞𝐫𝐌𝐂 | 𝐍𝐞𝐭𝐖𝐨𝐫𝐤 Members: 259 
+16:10:46.429 INFO  Guild Joined: 𝐄𝐧𝐝𝐞𝐫𝐌𝐂 | 𝐍𝐞𝐭𝐖𝐨𝐫𝐤 Members: 259 
+16:23:01.546 INFO  Guild Left: 𝐄𝐧𝐝𝐞𝐫𝐌𝐂 | 𝐍𝐞𝐭𝐖𝐨𝐫𝐤 Members: 259 
+

@@ -1,0 +1,419 @@
+01:22:03.465 INFO  Loading commands... 
+01:22:03.967 DEBUG Skipping slash command avatar. Disabled! 
+01:22:03.993 DEBUG Skipping slash command botinvite. Disabled! 
+01:22:04.015 DEBUG Skipping slash command botstats. Disabled! 
+01:22:04.025 DEBUG Skipping slash command channelinfo. Disabled! 
+01:22:04.038 DEBUG Skipping slash command emojiinfo. Disabled! 
+01:22:04.040 DEBUG Skipping slash command guildinfo. Disabled! 
+01:22:04.075 DEBUG Skipping command bot. Disabled! 
+01:22:04.084 DEBUG Skipping command info. Disabled! 
+01:22:04.085 DEBUG Skipping slash command uptime. Disabled! 
+01:22:04.086 DEBUG Skipping slash command userinfo. Disabled! 
+01:22:04.182 DEBUG Skipping slash command deafen. Disabled! 
+01:22:04.203 DEBUG Skipping slash command disconnect. Disabled! 
+01:22:04.227 DEBUG Skipping slash command move. Disabled! 
+01:22:04.239 DEBUG Skipping slash command purge. Disabled! 
+01:22:04.253 DEBUG Skipping slash command purgeattach. Disabled! 
+01:22:04.254 DEBUG Skipping slash command purgebots. Disabled! 
+01:22:04.254 DEBUG Skipping slash command purgelinks. Disabled! 
+01:22:04.279 DEBUG Skipping slash command purgetoken. Disabled! 
+01:22:04.286 DEBUG Skipping slash command purgeuser. Disabled! 
+01:22:04.321 DEBUG Skipping command purge. Disabled! 
+01:22:04.328 DEBUG Skipping command voice. Disabled! 
+01:22:04.339 DEBUG Skipping slash command undeafen. Disabled! 
+01:22:04.352 DEBUG Skipping slash command vmute. Disabled! 
+01:22:04.353 DEBUG Skipping slash command vunmute. Disabled! 
+01:22:04.641 INFO  Loaded 94 commands 
+01:22:04.641 INFO  Loaded 78 slash commands 
+01:22:04.641 INFO  Loading contexts... 
+01:22:04.659 INFO  Loaded 2 USER contexts 
+01:22:04.670 INFO  Loaded 0 MESSAGE contexts 
+01:22:04.671 INFO  Loading events... 
+01:22:04.944 INFO  Loaded 22 events. Success (22) Failed (0) 
+01:22:05.494 INFO  VersionCheck: Your discord bot is up to date 
+01:22:05.507 INFO  Validating config.js and environment variables 
+01:22:05.507 INFO  Connecting to MongoDb... 
+01:22:06.953 INFO  Mongoose: Database connection established 
+01:22:10.171 INFO  Logged in as Mocy#5428! (936627481442672710) 
+01:22:10.171 INFO  Initializing music manager 
+01:22:10.893 INFO  Successfully registered slash commands 
+01:22:11.003 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+09:10:38.079 INFO  Loading commands... 
+09:10:38.199 DEBUG Skipping slash command avatar. Disabled! 
+09:10:38.200 DEBUG Skipping slash command botinvite. Disabled! 
+09:10:38.203 DEBUG Skipping slash command botstats. Disabled! 
+09:10:38.205 DEBUG Skipping slash command channelinfo. Disabled! 
+09:10:38.206 DEBUG Skipping slash command emojiinfo. Disabled! 
+09:10:38.207 DEBUG Skipping slash command guildinfo. Disabled! 
+09:10:38.214 DEBUG Skipping command bot. Disabled! 
+09:10:38.215 DEBUG Skipping command info. Disabled! 
+09:10:38.216 DEBUG Skipping slash command uptime. Disabled! 
+09:10:38.218 DEBUG Skipping slash command userinfo. Disabled! 
+09:10:38.230 DEBUG Skipping slash command deafen. Disabled! 
+09:10:38.231 DEBUG Skipping slash command disconnect. Disabled! 
+09:10:38.232 DEBUG Skipping slash command move. Disabled! 
+09:10:38.286 DEBUG Skipping slash command purge. Disabled! 
+09:10:38.288 DEBUG Skipping slash command purgeattach. Disabled! 
+09:10:38.288 DEBUG Skipping slash command purgebots. Disabled! 
+09:10:38.293 DEBUG Skipping slash command purgelinks. Disabled! 
+09:10:38.294 DEBUG Skipping slash command purgetoken. Disabled! 
+09:10:38.294 DEBUG Skipping slash command purgeuser. Disabled! 
+09:10:38.296 DEBUG Skipping command purge. Disabled! 
+09:10:38.297 DEBUG Skipping command voice. Disabled! 
+09:10:38.299 DEBUG Skipping slash command undeafen. Disabled! 
+09:10:38.302 DEBUG Skipping slash command vmute. Disabled! 
+09:10:38.304 DEBUG Skipping slash command vunmute. Disabled! 
+09:10:38.336 INFO  Loaded 94 commands 
+09:10:38.336 INFO  Loaded 78 slash commands 
+09:10:38.336 INFO  Loading contexts... 
+09:10:38.338 INFO  Loaded 2 USER contexts 
+09:10:38.338 INFO  Loaded 0 MESSAGE contexts 
+09:10:38.338 INFO  Loading events... 
+09:10:38.429 INFO  Loaded 22 events. Success (22) Failed (0) 
+09:10:38.777 INFO  VersionCheck: Your discord bot is up to date 
+09:10:38.777 INFO  Validating config.js and environment variables 
+09:10:38.778 INFO  Connecting to MongoDb... 
+09:10:39.948 INFO  Mongoose: Database connection established 
+09:10:41.106 INFO  Logged in as Mocy#5428! (936627481442672710) 
+09:10:41.107 INFO  Initializing music manager 
+09:10:41.297 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+09:10:41.329 INFO  Successfully registered slash commands 
+12:27:22.308 ERROR {"message":"Cannot read properties of undefined (reading 'children')","severity":"COMMON"} 
+12:27:44.419 ERROR {"message":"Cannot read properties of undefined (reading 'children')","severity":"COMMON"} 
+12:28:09.722 ERROR {"message":"Cannot read properties of undefined (reading 'children')","severity":"COMMON"} 
+12:28:29.251 ERROR {"severity":"COMMON","message":"Unknown file format."} 
+12:29:43.708 ERROR {"severity":"COMMON","message":"This track is not available"} 
+12:30:17.049 ERROR {"severity":"COMMON","message":"This track is not available"} 
+12:32:16.041 ERROR {"severity":"FAULT","message":"Something went wrong when looking up the track"} 
+12:35:41.444 ERROR Headers Timeout Error
+{"name":"HeadersTimeoutError","code":"UND_ERR_HEADERS_TIMEOUT","message":"Headers Timeout Error"}
+HeadersTimeoutError: Headers Timeout Error
+    at Timeout.ct [as _onTimeout] (/home/runner/discord-js-bot/node_modules/petitio/dist/index.js:4:5697)
+    at listOnTimeout (node:internal/timers:559:11)
+    at processTimers (node:internal/timers:500:7) 
+14:02:49.721 INFO  Guild Joined: Limsathyacord Members: 100 
+14:15:24.115 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+14:15:24.330 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+14:52:07.591 INFO  Loading commands... 
+14:52:07.891 DEBUG Skipping slash command avatar. Disabled! 
+14:52:07.892 DEBUG Skipping slash command botinvite. Disabled! 
+14:52:07.895 DEBUG Skipping slash command botstats. Disabled! 
+14:52:07.897 DEBUG Skipping slash command channelinfo. Disabled! 
+14:52:07.898 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:52:07.899 DEBUG Skipping slash command guildinfo. Disabled! 
+14:52:07.905 DEBUG Skipping command bot. Disabled! 
+14:52:07.906 DEBUG Skipping command info. Disabled! 
+14:52:07.907 DEBUG Skipping slash command uptime. Disabled! 
+14:52:07.908 DEBUG Skipping slash command userinfo. Disabled! 
+14:52:07.988 DEBUG Skipping slash command deafen. Disabled! 
+14:52:07.989 DEBUG Skipping slash command disconnect. Disabled! 
+14:52:07.990 DEBUG Skipping slash command move. Disabled! 
+14:52:07.991 DEBUG Skipping slash command purge. Disabled! 
+14:52:07.992 DEBUG Skipping slash command purgeattach. Disabled! 
+14:52:07.992 DEBUG Skipping slash command purgebots. Disabled! 
+14:52:07.993 DEBUG Skipping slash command purgelinks. Disabled! 
+14:52:07.993 DEBUG Skipping slash command purgetoken. Disabled! 
+14:52:07.994 DEBUG Skipping slash command purgeuser. Disabled! 
+14:52:07.996 DEBUG Skipping command purge. Disabled! 
+14:52:07.997 DEBUG Skipping command voice. Disabled! 
+14:52:08.001 DEBUG Skipping slash command undeafen. Disabled! 
+14:52:08.004 DEBUG Skipping slash command vmute. Disabled! 
+14:52:08.005 DEBUG Skipping slash command vunmute. Disabled! 
+14:52:08.116 INFO  Loaded 94 commands 
+14:52:08.116 INFO  Loaded 78 slash commands 
+14:52:08.116 INFO  Loading contexts... 
+14:52:08.118 INFO  Loaded 2 USER contexts 
+14:52:08.181 INFO  Loaded 0 MESSAGE contexts 
+14:52:08.182 INFO  Loading events... 
+14:52:08.305 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:52:08.799 INFO  VersionCheck: Your discord bot is up to date 
+14:52:08.799 INFO  Validating config.js and environment variables 
+14:52:08.799 INFO  Connecting to MongoDb... 
+14:52:10.221 INFO  Mongoose: Database connection established 
+14:52:12.101 INFO  Logged in as Mocy#5428! (936627481442672710) 
+14:52:12.102 INFO  Initializing music manager 
+14:52:12.346 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+14:52:12.391 INFO  Successfully registered slash commands 
+14:52:15.723 ERROR DASHBOARD is not defined
+{}
+ReferenceError: DASHBOARD is not defined
+    at getHelpMenu (/home/runner/discord-js-bot/src/commands/utility/help.js:130:3)
+    at HelpCommand.messageRun (/home/runner/discord-js-bot/src/commands/utility/help.js:55:30)
+    at HelpCommand.executeCommand (/home/runner/discord-js-bot/src/structures/Command.js:160:18)
+    at module.exports (/home/runner/discord-js-bot/src/events/message/messageCreate.js:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+14:52:26.082 ERROR DASHBOARD is not defined
+{}
+ReferenceError: DASHBOARD is not defined
+    at getHelpMenu (/home/runner/discord-js-bot/src/commands/utility/help.js:130:3)
+    at HelpCommand.messageRun (/home/runner/discord-js-bot/src/commands/utility/help.js:55:30)
+    at HelpCommand.executeCommand (/home/runner/discord-js-bot/src/structures/Command.js:160:18)
+    at module.exports (/home/runner/discord-js-bot/src/events/message/messageCreate.js:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+14:53:11.295 INFO  Loading commands... 
+14:53:11.412 DEBUG Skipping slash command avatar. Disabled! 
+14:53:11.414 DEBUG Skipping slash command botinvite. Disabled! 
+14:53:11.416 DEBUG Skipping slash command botstats. Disabled! 
+14:53:11.481 DEBUG Skipping slash command channelinfo. Disabled! 
+14:53:11.482 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:53:11.483 DEBUG Skipping slash command guildinfo. Disabled! 
+14:53:11.501 DEBUG Skipping command bot. Disabled! 
+14:53:11.502 DEBUG Skipping command info. Disabled! 
+14:53:11.503 DEBUG Skipping slash command uptime. Disabled! 
+14:53:11.506 DEBUG Skipping slash command userinfo. Disabled! 
+14:53:11.524 DEBUG Skipping slash command deafen. Disabled! 
+14:53:11.525 DEBUG Skipping slash command disconnect. Disabled! 
+14:53:11.527 DEBUG Skipping slash command move. Disabled! 
+14:53:11.528 DEBUG Skipping slash command purge. Disabled! 
+14:53:11.529 DEBUG Skipping slash command purgeattach. Disabled! 
+14:53:11.530 DEBUG Skipping slash command purgebots. Disabled! 
+14:53:11.530 DEBUG Skipping slash command purgelinks. Disabled! 
+14:53:11.531 DEBUG Skipping slash command purgetoken. Disabled! 
+14:53:11.532 DEBUG Skipping slash command purgeuser. Disabled! 
+14:53:11.534 DEBUG Skipping command purge. Disabled! 
+14:53:11.534 DEBUG Skipping command voice. Disabled! 
+14:53:11.536 DEBUG Skipping slash command undeafen. Disabled! 
+14:53:11.537 DEBUG Skipping slash command vmute. Disabled! 
+14:53:11.538 DEBUG Skipping slash command vunmute. Disabled! 
+14:53:11.617 INFO  Loaded 94 commands 
+14:53:11.617 INFO  Loaded 78 slash commands 
+14:53:11.618 INFO  Loading contexts... 
+14:53:11.628 INFO  Loaded 2 USER contexts 
+14:53:11.629 INFO  Loaded 0 MESSAGE contexts 
+14:53:11.629 INFO  Loading events... 
+14:53:11.727 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:53:12.006 INFO  VersionCheck: Your discord bot is up to date 
+14:53:12.006 INFO  Validating config.js and environment variables 
+14:53:12.006 INFO  Connecting to MongoDb... 
+14:53:13.206 INFO  Mongoose: Database connection established 
+14:53:14.427 INFO  Logged in as Mocy#5428! (936627481442672710) 
+14:53:14.427 INFO  Initializing music manager 
+14:53:14.682 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+14:53:14.727 INFO  Successfully registered slash commands 
+15:00:41.124 INFO  Loading commands... 
+15:00:41.298 DEBUG Skipping slash command avatar. Disabled! 
+15:00:41.300 DEBUG Skipping slash command botinvite. Disabled! 
+15:00:41.302 DEBUG Skipping slash command botstats. Disabled! 
+15:00:41.304 DEBUG Skipping slash command channelinfo. Disabled! 
+15:00:41.305 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:00:41.310 DEBUG Skipping slash command guildinfo. Disabled! 
+15:00:41.320 DEBUG Skipping command bot. Disabled! 
+15:00:41.321 DEBUG Skipping command info. Disabled! 
+15:00:41.321 DEBUG Skipping slash command uptime. Disabled! 
+15:00:41.322 DEBUG Skipping slash command userinfo. Disabled! 
+15:00:41.332 DEBUG Skipping slash command deafen. Disabled! 
+15:00:41.333 DEBUG Skipping slash command disconnect. Disabled! 
+15:00:41.338 DEBUG Skipping slash command move. Disabled! 
+15:00:41.339 DEBUG Skipping slash command purge. Disabled! 
+15:00:41.340 DEBUG Skipping slash command purgeattach. Disabled! 
+15:00:41.340 DEBUG Skipping slash command purgebots. Disabled! 
+15:00:41.341 DEBUG Skipping slash command purgelinks. Disabled! 
+15:00:41.379 DEBUG Skipping slash command purgetoken. Disabled! 
+15:00:41.380 DEBUG Skipping slash command purgeuser. Disabled! 
+15:00:41.382 DEBUG Skipping command purge. Disabled! 
+15:00:41.383 DEBUG Skipping command voice. Disabled! 
+15:00:41.384 DEBUG Skipping slash command undeafen. Disabled! 
+15:00:41.386 DEBUG Skipping slash command vmute. Disabled! 
+15:00:41.386 DEBUG Skipping slash command vunmute. Disabled! 
+15:00:41.409 INFO  Loaded 94 commands 
+15:00:41.409 INFO  Loaded 78 slash commands 
+15:00:41.409 INFO  Loading contexts... 
+15:00:41.411 INFO  Loaded 2 USER contexts 
+15:00:41.411 INFO  Loaded 0 MESSAGE contexts 
+15:00:41.412 INFO  Loading events... 
+15:00:41.528 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:00:41.830 INFO  VersionCheck: Your discord bot is up to date 
+15:00:41.831 INFO  Validating config.js and environment variables 
+15:00:41.831 INFO  Connecting to MongoDb... 
+15:00:43.028 INFO  Mongoose: Database connection established 
+15:00:44.179 INFO  Logged in as Mocy#5428! (936627481442672710) 
+15:00:44.179 INFO  Initializing music manager 
+15:00:44.383 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+15:00:44.413 INFO  Successfully registered slash commands 
+15:00:49.655 ERROR displayAvatarURL is not defined
+{}
+ReferenceError: displayAvatarURL is not defined
+    at nowPlaying (/home/runner/discord-js-bot/src/commands/music/np.js:51:5)
+    at Skip.messageRun (/home/runner/discord-js-bot/src/commands/music/np.js:29:22)
+    at Skip.executeCommand (/home/runner/discord-js-bot/src/structures/Command.js:160:18)
+    at module.exports (/home/runner/discord-js-bot/src/events/message/messageCreate.js:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+15:03:21.445 INFO  Loading commands... 
+15:03:21.736 DEBUG Skipping slash command avatar. Disabled! 
+15:03:21.737 DEBUG Skipping slash command botinvite. Disabled! 
+15:03:21.747 DEBUG Skipping slash command botstats. Disabled! 
+15:03:21.749 DEBUG Skipping slash command channelinfo. Disabled! 
+15:03:21.750 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:03:21.751 DEBUG Skipping slash command guildinfo. Disabled! 
+15:03:21.791 DEBUG Skipping command bot. Disabled! 
+15:03:21.792 DEBUG Skipping command info. Disabled! 
+15:03:21.793 DEBUG Skipping slash command uptime. Disabled! 
+15:03:21.793 DEBUG Skipping slash command userinfo. Disabled! 
+15:03:21.812 DEBUG Skipping slash command deafen. Disabled! 
+15:03:21.813 DEBUG Skipping slash command disconnect. Disabled! 
+15:03:21.815 DEBUG Skipping slash command move. Disabled! 
+15:03:21.817 DEBUG Skipping slash command purge. Disabled! 
+15:03:21.880 DEBUG Skipping slash command purgeattach. Disabled! 
+15:03:21.881 DEBUG Skipping slash command purgebots. Disabled! 
+15:03:21.882 DEBUG Skipping slash command purgelinks. Disabled! 
+15:03:21.889 DEBUG Skipping slash command purgetoken. Disabled! 
+15:03:21.890 DEBUG Skipping slash command purgeuser. Disabled! 
+15:03:21.892 DEBUG Skipping command purge. Disabled! 
+15:03:21.896 DEBUG Skipping command voice. Disabled! 
+15:03:21.902 DEBUG Skipping slash command undeafen. Disabled! 
+15:03:21.903 DEBUG Skipping slash command vmute. Disabled! 
+15:03:21.904 DEBUG Skipping slash command vunmute. Disabled! 
+15:03:21.994 INFO  Loaded 94 commands 
+15:03:21.994 INFO  Loaded 78 slash commands 
+15:03:21.994 INFO  Loading contexts... 
+15:03:22.002 INFO  Loaded 2 USER contexts 
+15:03:22.002 INFO  Loaded 0 MESSAGE contexts 
+15:03:22.002 INFO  Loading events... 
+15:03:22.318 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:03:22.699 INFO  VersionCheck: Your discord bot is up to date 
+15:03:22.700 INFO  Validating config.js and environment variables 
+15:03:22.700 INFO  Connecting to MongoDb... 
+15:03:24.009 INFO  Mongoose: Database connection established 
+15:03:26.099 INFO  Logged in as Mocy#5428! (936627481442672710) 
+15:03:26.100 INFO  Initializing music manager 
+15:03:26.395 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+15:03:26.506 INFO  Successfully registered slash commands 
+15:03:31.639 ERROR client.displayAvatarURL is not a function
+{}
+TypeError: client.displayAvatarURL is not a function
+    at nowPlaying (/home/runner/discord-js-bot/src/commands/music/np.js:51:40)
+    at Skip.messageRun (/home/runner/discord-js-bot/src/commands/music/np.js:29:22)
+    at Skip.executeCommand (/home/runner/discord-js-bot/src/structures/Command.js:160:18)
+    at module.exports (/home/runner/discord-js-bot/src/events/message/messageCreate.js:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+15:04:10.429 INFO  Loading commands... 
+15:04:10.626 DEBUG Skipping slash command avatar. Disabled! 
+15:04:10.628 DEBUG Skipping slash command botinvite. Disabled! 
+15:04:10.630 DEBUG Skipping slash command botstats. Disabled! 
+15:04:10.632 DEBUG Skipping slash command channelinfo. Disabled! 
+15:04:10.633 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:04:10.634 DEBUG Skipping slash command guildinfo. Disabled! 
+15:04:10.640 DEBUG Skipping command bot. Disabled! 
+15:04:10.641 DEBUG Skipping command info. Disabled! 
+15:04:10.641 DEBUG Skipping slash command uptime. Disabled! 
+15:04:10.642 DEBUG Skipping slash command userinfo. Disabled! 
+15:04:10.684 DEBUG Skipping slash command deafen. Disabled! 
+15:04:10.686 DEBUG Skipping slash command disconnect. Disabled! 
+15:04:10.687 DEBUG Skipping slash command move. Disabled! 
+15:04:10.688 DEBUG Skipping slash command purge. Disabled! 
+15:04:10.690 DEBUG Skipping slash command purgeattach. Disabled! 
+15:04:10.691 DEBUG Skipping slash command purgebots. Disabled! 
+15:04:10.691 DEBUG Skipping slash command purgelinks. Disabled! 
+15:04:10.692 DEBUG Skipping slash command purgetoken. Disabled! 
+15:04:10.692 DEBUG Skipping slash command purgeuser. Disabled! 
+15:04:10.695 DEBUG Skipping command purge. Disabled! 
+15:04:10.696 DEBUG Skipping command voice. Disabled! 
+15:04:10.698 DEBUG Skipping slash command undeafen. Disabled! 
+15:04:10.699 DEBUG Skipping slash command vmute. Disabled! 
+15:04:10.700 DEBUG Skipping slash command vunmute. Disabled! 
+15:04:10.723 INFO  Loaded 94 commands 
+15:04:10.724 INFO  Loaded 78 slash commands 
+15:04:10.724 INFO  Loading contexts... 
+15:04:10.783 INFO  Loaded 2 USER contexts 
+15:04:10.783 INFO  Loaded 0 MESSAGE contexts 
+15:04:10.783 INFO  Loading events... 
+15:04:10.894 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:04:11.214 INFO  VersionCheck: Your discord bot is up to date 
+15:04:11.214 INFO  Validating config.js and environment variables 
+15:04:11.215 INFO  Connecting to MongoDb... 
+15:04:12.280 INFO  Mongoose: Database connection established 
+15:04:13.589 INFO  Logged in as Mocy#5428! (936627481442672710) 
+15:04:13.589 INFO  Initializing music manager 
+15:04:13.790 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+15:04:13.811 INFO  Successfully registered slash commands 
+18:20:50.340 INFO  Loading commands... 
+18:20:51.407 DEBUG Skipping slash command avatar. Disabled! 
+18:20:51.431 DEBUG Skipping slash command botinvite. Disabled! 
+18:20:51.495 DEBUG Skipping slash command botstats. Disabled! 
+18:20:51.530 DEBUG Skipping slash command channelinfo. Disabled! 
+18:20:51.549 DEBUG Skipping slash command emojiinfo. Disabled! 
+18:20:51.563 DEBUG Skipping slash command guildinfo. Disabled! 
+18:20:51.721 DEBUG Skipping command bot. Disabled! 
+18:20:51.742 DEBUG Skipping command info. Disabled! 
+18:20:51.759 DEBUG Skipping slash command uptime. Disabled! 
+18:20:51.768 DEBUG Skipping slash command userinfo. Disabled! 
+18:20:51.984 DEBUG Skipping slash command deafen. Disabled! 
+18:20:52.009 DEBUG Skipping slash command disconnect. Disabled! 
+18:20:52.031 DEBUG Skipping slash command move. Disabled! 
+18:20:52.042 DEBUG Skipping slash command purge. Disabled! 
+18:20:52.060 DEBUG Skipping slash command purgeattach. Disabled! 
+18:20:52.066 DEBUG Skipping slash command purgebots. Disabled! 
+18:20:52.067 DEBUG Skipping slash command purgelinks. Disabled! 
+18:20:52.082 DEBUG Skipping slash command purgetoken. Disabled! 
+18:20:52.083 DEBUG Skipping slash command purgeuser. Disabled! 
+18:20:52.109 DEBUG Skipping command purge. Disabled! 
+18:20:52.115 DEBUG Skipping command voice. Disabled! 
+18:20:52.140 DEBUG Skipping slash command undeafen. Disabled! 
+18:20:52.155 DEBUG Skipping slash command vmute. Disabled! 
+18:20:52.156 DEBUG Skipping slash command vunmute. Disabled! 
+18:20:52.550 INFO  Loaded 94 commands 
+18:20:52.551 INFO  Loaded 78 slash commands 
+18:20:52.551 INFO  Loading contexts... 
+18:20:52.589 INFO  Loaded 2 USER contexts 
+18:20:52.589 INFO  Loaded 0 MESSAGE contexts 
+18:20:52.590 INFO  Loading events... 
+18:20:53.214 INFO  Loaded 22 events. Success (22) Failed (0) 
+18:20:54.098 INFO  VersionCheck: Your discord bot is up to date 
+18:20:54.112 INFO  Validating config.js and environment variables 
+18:20:54.112 INFO  Connecting to MongoDb... 
+18:44:55.744 INFO  Loading commands... 
+18:44:55.949 DEBUG Skipping slash command avatar. Disabled! 
+18:44:55.952 DEBUG Skipping slash command botinvite. Disabled! 
+18:44:55.957 DEBUG Skipping slash command botstats. Disabled! 
+18:44:55.959 DEBUG Skipping slash command channelinfo. Disabled! 
+18:44:55.960 DEBUG Skipping slash command emojiinfo. Disabled! 
+18:44:55.961 DEBUG Skipping slash command guildinfo. Disabled! 
+18:44:55.978 DEBUG Skipping command bot. Disabled! 
+18:44:55.979 DEBUG Skipping command info. Disabled! 
+18:44:55.981 DEBUG Skipping slash command uptime. Disabled! 
+18:44:55.982 DEBUG Skipping slash command userinfo. Disabled! 
+18:44:56.042 DEBUG Skipping slash command deafen. Disabled! 
+18:44:56.044 DEBUG Skipping slash command disconnect. Disabled! 
+18:44:56.045 DEBUG Skipping slash command move. Disabled! 
+18:44:56.047 DEBUG Skipping slash command purge. Disabled! 
+18:44:56.047 DEBUG Skipping slash command purgeattach. Disabled! 
+18:44:56.048 DEBUG Skipping slash command purgebots. Disabled! 
+18:44:56.049 DEBUG Skipping slash command purgelinks. Disabled! 
+18:44:56.049 DEBUG Skipping slash command purgetoken. Disabled! 
+18:44:56.050 DEBUG Skipping slash command purgeuser. Disabled! 
+18:44:56.052 DEBUG Skipping command purge. Disabled! 
+18:44:56.053 DEBUG Skipping command voice. Disabled! 
+18:44:56.055 DEBUG Skipping slash command undeafen. Disabled! 
+18:44:56.057 DEBUG Skipping slash command vmute. Disabled! 
+18:44:56.058 DEBUG Skipping slash command vunmute. Disabled! 
+18:44:56.144 INFO  Loaded 94 commands 
+18:44:56.144 INFO  Loaded 78 slash commands 
+18:44:56.145 INFO  Loading contexts... 
+18:44:56.148 INFO  Loaded 2 USER contexts 
+18:44:56.148 INFO  Loaded 0 MESSAGE contexts 
+18:44:56.148 INFO  Loading events... 
+18:44:56.278 INFO  Loaded 22 events. Success (22) Failed (0) 
+18:44:56.653 INFO  VersionCheck: Your discord bot is up to date 
+18:44:56.654 INFO  Validating config.js and environment variables 
+18:44:56.654 INFO  Connecting to MongoDb... 
+18:44:57.875 INFO  Mongoose: Database connection established 
+18:44:59.450 INFO  Logged in as Mocy#5428! (936627481442672710) 
+18:44:59.450 INFO  Initializing music manager 
+18:44:59.750 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+18:44:59.789 INFO  Successfully registered slash commands 
+18:57:04.822 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+18:57:04.978 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+19:11:17.801 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+19:11:22.397 ERROR Client network socket disconnected before secure TLS connection was established
+{"code":"ECONNRESET","host":"lavalink-repl.parasop.repl.co","port":443}
+Error: Client network socket disconnected before secure TLS connection was established
+    at connResetException (node:internal/errors:691:14)
+    at TLSSocket.onConnectEnd (node:_tls_wrap:1585:19)
+    at TLSSocket.emit (node:events:402:35)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+19:11:27.402 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+19:11:27.501 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+21:00:32.507 WARN  Node "lavalink-repl.parasop.repl.co" is reconnecting 
+21:00:32.658 INFO  Node "lavalink-repl.parasop.repl.co" connected 
+

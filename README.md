@@ -1,79 +1,71 @@
-<h1 align='center'> UPDATES INFO 🔕 </h1>
-<p> This bot will no longer receive updates because im not using dc so much :) and also i don't get any donations from these project so I can't keep working on. I'm belong from middle class fame so I need to work every day to get some money +_+ also sorry' for my bad grammar 🙂 keep supporting I'm back soon </p> 
+# 🤖 About Me
 
-<h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js 
- Made by tag:- cw Khan#6496 
-Id 682981714523586606 </h1> 
+![Automod Bot](https://media.discordapp.net/attachments/856206298630455357/966214260768251904/2.-A-by-Nick-Matey.jpg)
 
+> An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
 
-<h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
+> Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client\_id=744597377406599188\&permissions=397602323830\&scope=bot%20applications.commands)
+>
+> Support Server: [Join Here](https://discord.gg/uPBqMHu9X4)
+>
+> Documentation URL: [Visit Here](https://github.com/MrrVit665/automod-bot/#README.md)
 
- <h3 align='center'> Categories 📑 </h3>
+### Prerequisites
 
+* [Node.js](https://nodejs.org/en/) v16.6.0 or higher
+* [Git](https://git-scm.com/downloads)
+* [MongoDB](https://www.mongodb.com)
 
-- ✅ music 
-- ✅ moderation 
-- ✅ NSFW 
-- ✅ Info
-- ✅ giveway
-- ✅ fun
-- ✅ help
-- ✅ economy 
-- ✅ nsfw 
-- ✅ utility   
-- ✅ search
-- ✅ owner
+### Getting Started
 
- 
+* Open the terminal and run the following commands
 
+```
+git clone https://github.com/Khanmanan/automod-bot.git
+cd discord-js-bot
+npm install
+```
 
-   
-<h3> A FUN AND MODERATION BOT WITH 150+COMMNDS
-IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
-<div align="center"> <a href="https://top.gg/bot/744597377406599188">
-<img src="https://top.gg/api/widget/744597377406599188.svg"/>
- </a> </div>
+* Wait for all the dependencies to be installed
+* Rename `.env.example` to `.env` and fill the values
+* Optionally edit `config.js`
+* Type `npm run start` to start the bot
 
-**[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
+If you need any additional help, make sure to read our guides [here](docs/additional/installation.md)
 
-**[INVITE BOT](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)**
+### Features
 
+Automod is a feature-rich discord bot with new features constantly being updated! Current features include
 
+* **Auto-Moderation**: Power auto-moderation to keep your discord server clean
+* **Powerful Moderation with Logging**: Moderate and log every action you take
+* **Image Manipulation**: Have fun with various image `filters` and `generators`
+* **Economy & XP System**: Engage user interaction with the economy and Levelling system
+* **Invite Tracking**: Best invite tracking with configurable invite ranks
+* **Ticketing**: Support for creating multiple `ticket` channels
+* **Reaction Roles**: Support for creation of multiple custom reaction roles
+* **Greeting**: Highly Customizable welcome and farewell embeds
 
-<div align="center"><a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot"> 
-    <img src="https://cdn.discordapp.com/attachments/824976037578014730/834743546417381414/350kb_1.gif" alt="Automodbot" />
-</a> </div>
+### Categories
 
-<h3 align='center'> Bot support server </h3>
-<div align="center"> <a href="https://discord.gg/7P6WjqRcft"><img src="https://img.shields.io/discord/787315610102530048?label=discord&logo=Discord&style=for-the-badge" alt="Discord server" /></a><div align="center">
+Automod has an extensive list of all useful commands (**more than 100**) which are categorized as follows
 
-<br><br>
+* **Automod**: `antighostping`, `antiinvites`, `antilinks`, `antiscam`, `maxlines`, `maxmentions`, ...
+* **Admin**: `welcome`, `farewell`, `reaction-roles`, ...
+* **Economy**: `daily`, `gamble`, `deposit`, `withdraw`, `transfer`, ...
+* **Fun**: `cat`, `doc`, `flipcoin`, `fliptext`, ...
+* **Information**: `avatar`, `roleinfo`, `channelinfo`, `guildinfo`, `profile`, ...
+* **Invites**: `inviter`, `invites`, `invitesimport`, `invitecodes`, ...
+* **Moderation**: `warn`, `kick`, `softban`, `ban`, `mute`, `unmute`, ...
+* **Music**: `play`, `pause`, `resume`, `stop`, `skip`, `queue`, `np`, ...
+* **Social**: `reputation list,` `give reputation,` ...
+* **Ticket**: setup, close, log, ...
+* **Utility**: `proxies`, `translation`, `weather`, `covid`, ...
 
-</div>
+A complete list of commands can be found in the [documentation](docs/commands/)
 
+### 🤝 Contributing
 
-<div align="center">
-
-</a>
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCEz62e3PmjcghMTU1O0U6EQ?color=red&label=YOUTUBE&logo=YOUTUBE&logoColor=red&style=for-the-badge">
- </div>
-
- <br>
-<div align="center"> <h3> Tutorial </h3>
-
- <h3 align='center'> Tutorial has been uploaded on YouTube </h3> 
-
-###  Full setup [here](https://youtu.be/IX4DZq7iVf4) 
-
-### How to host watch' video  Watch it by clicking [here](https://youtu.be/NlCufWQUL54)
-
-<h3  align='center'>If u got any error join our  discord server
- If you want working version join our discor server </h3>
-
-<h1 align='center'> 💨 Run the projects  </h1>
- 
-
-### Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-10) 
-
-### START THE PROJECT IF U LIKE :)
-### copyright ©️ 2021 Automod v12:
+* Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
+* Feel free to [Fork](https://github.com/Khanmanan/automod-bot/fork) this repository, create a feature branch and submit a pull request
+* You can check all the planned features [here](https://github.com/Khanmanan/automod-bot/projects) or make a request for one at our discord

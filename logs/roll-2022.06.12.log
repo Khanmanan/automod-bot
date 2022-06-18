@@ -1,0 +1,20 @@
+02:58:33.894 INFO  Guild Joined: poligon 2.0 Members: 174 
+14:03:54.848 INFO  Guild Joined: psattir Members: 10 
+19:44:17.254 ERROR Cannot send an empty message
+{"name":"DiscordAPIError","message":"Cannot send an empty message","method":"post","path":"/channels/985274717395120232/messages","code":50006,"httpStatus":400,"requestData":{"json":{"tts":false,"allowed_mentions":{"replied_user":false},"flags":0,"message_reference":{"message_id":"985630639539781632","fail_if_not_exists":true}},"files":[]}}
+DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:175:15)
+    at async Welcome.executeCommand (/home/container/src/structures/Command.js:160:7) 
+19:45:56.966 ERROR Unknown Message
+{"name":"DiscordAPIError","message":"Unknown Message","method":"patch","path":"/channels/985274717395120232/messages/985630804258455654","code":10008,"httpStatus":404,"requestData":{"json":{"tts":false,"components":[],"flags":0},"files":[]}}
+DiscordAPIError: Unknown Message
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async MessageManager.edit (/home/container/node_modules/discord.js/src/managers/MessageManager.js:132:15) 
+
