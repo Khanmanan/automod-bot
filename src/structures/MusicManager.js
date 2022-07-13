@@ -27,7 +27,7 @@ module.exports = class MusicManager extends Manager {
     }
 
     super({
-      nodes: MUSIC.NODES,
+      nodes: MUSIC.NODES.HOST ? MUSIC.NODES.HOST : [],
       autoPlay: true,
       plugins,
 
