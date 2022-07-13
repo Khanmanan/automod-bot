@@ -10,9 +10,13 @@ const { PRESENCE } = require("@root/config");
 module.exports = async (client) => {
   client.logger.success(`Logged in as ${client.user.tag}! (${client.user.id})`);
 
-  // Initialize Music Manager
-  client.logger.log("Initializing music manager");
-  client.musicManager.init(client.user.id);
+  // Initialize Music Manager | if Host string is filled out in config file
+  if ([...config.MUSIC.NODES[0].host].length === 0) {
+    client.logger.warn("No Host String in Config.json, music will not be available.");
+  } else {
+    client.logger.log("Initializing music manager");
+    client.musicManager.init(client.user.id);
+  };
 
   // Update Bot Presence
   if (PRESENCE.ENABLED) {
