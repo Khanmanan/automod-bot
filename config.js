@@ -46,15 +46,15 @@ module.exports = {
   IMAGE: {
     BASE_API: "https://image-api.strangebot.xyz",
   },
-  MUSIC: {
+MUSIC: {
     IDLE_TIME: 60, // Time in seconds before the bot disconnects from the voice channel
     MAX_SEARCH_RESULTS: 5,
     NODES: [
       {
-        host: "",
-        port: 1922,
-        password: "",
-        identifier: "",
+        host: "54.37.6.86",
+        port: 80,
+        password: "Blacky#9125",
+        identifier: "54.37.6.86",
         retryDelay: 5000,
         secure: false,
       },
