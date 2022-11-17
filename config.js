@@ -15,10 +15,10 @@ module.exports = {
     port: "8080", // port to run the bot on
   },
   INTERACTIONS: {
-    SLASH: false, // Should the interactions be enabled
+    SLASH: true, // Should the interactions be enabled
     CONTEXT: false, // Should contexts be enabled
-    GLOBAL: false, // Should the interactions be registered globally
-    TEST_GUILD_ID: "xxxxxxxxxx", // Guild ID where the interactions should be registered. [** Test you commands here first **]
+    GLOBAL: true, // Should the interactions be registered globally
+    TEST_GUILD_ID: "xxxxxxxxxx", // Guild ID where the interactions should be registered. [** Test you commands here first **] //NOT REQUIRED
   },
   XP_SYSTEM: {
     COOLDOWN: 5, // Cooldown in seconds between messages
@@ -51,12 +51,20 @@ MUSIC: {
     MAX_SEARCH_RESULTS: 5,
     NODES: [
       {
-        host: "54.37.6.86",
-        port: 80,
-        password: "Blacky#9125",
-        identifier: "54.37.6.86",
+        host: "node1.kartadharta.xyz",
+        port: 443,
+        password: "kdlavalink",
+        
         retryDelay: 5000,
-        secure: false,
+        secure: true,
+      },
+      {
+        host: "lavalink.oops.wtf",
+        port: 443,
+        password: "www.freelavalink.ga",
+        
+        retryDelay: 5000,
+        secure: true,
       },
     ],
   },
