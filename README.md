@@ -1,5 +1,7 @@
 # 🤖 About Me
 
+**PLEASE READ THE DOCUMENTATION !!!!! [Visit Here](https://github.com/Khanmanan/automod-bot/tree/main/docs) OUR SUPPORT TEAM WILL NOT HELP IF YOU HAVE NOT READ THE DOCS!!!!!**
+
 ![Automod Bot](https://media.discordapp.net/attachments/856206298630455357/966214260768251904/2.-A-by-Nick-Matey.jpg)
 
 > An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
