@@ -24,7 +24,7 @@
 
 ```
 git clone https://github.com/Khanmanan/automod-bot.git
-cd discord-js-bot
+cd automod-bot
 npm install
 ```
 
